@@ -8,6 +8,7 @@ import java.util.Map;
 import java.util.stream.Collectors;
 import reactor.core.publisher.Flux;
 
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.core.ParameterizedTypeReference;
 import org.springframework.http.HttpHeaders;
 import org.springframework.stereotype.Service;
@@ -31,7 +32,7 @@ public class CopilotService {
 	
 	private CopilotService( @Value("${azure.bot.directline.secret}") String directLineSecret) {
 		 this.webClient = WebClient.builder().
-				          defaultHeader(HttpHeaders.AUTHORIZATION,"Bearer "+DIRECTLINE_SECRET)
+				          defaultHeader(HttpHeaders.AUTHORIZATION,"Bearer "+directLineSecret)
 				          .defaultHeader(HttpHeaders.CONTENT_TYPE, "Application/json").build();
 				 
 		
