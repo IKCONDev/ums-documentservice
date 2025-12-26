@@ -1,0 +1,151 @@
+11:25:19.273 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16h23m7s589ms530µs100ns).
+11:26:25.915 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+11:31:25.917 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+11:36:25.923 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+11:41:25.948 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+11:46:25.958 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+11:51:25.965 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+11:56:25.972 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+12:01:25.978 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+12:06:25.986 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+12:11:25.996 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+18:36:40.394 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=6h22m20s364ms526µs300ns).
+18:38:11.152 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m37s232ms369µs300ns).
+18:39:17.119 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+18:44:17.126 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+18:48:41.174 [RMI TCP Connection(319)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+18:48:41.177 [RMI TCP Connection(319)-127.0.0.1] INFO  o.s.c.n.e.s.EurekaServiceRegistry - Unregistering application UMS-DOCUMENT-SERVICE with eureka with status DOWN
+18:48:41.177 [RMI TCP Connection(319)-127.0.0.1] INFO  c.netflix.discovery.DiscoveryClient - Saw local status change event StatusChangeEvent [timestamp=1746278321177, current=DOWN, previous=UP]
+18:48:41.177 [DiscoveryClient-InstanceInfoReplicator-0] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_UMS-DOCUMENT-SERVICE/IKCON1053:UMS-DOCUMENT-SERVICE:9006: registering service...
+18:48:41.191 [RMI TCP Connection(319)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-9006"]
+18:48:41.191 [RMI TCP Connection(319)-127.0.0.1] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+18:48:41.193 [RMI TCP Connection(319)-127.0.0.1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+18:48:41.196 [RMI TCP Connection(319)-127.0.0.1] WARN  o.a.c.loader.WebappClassLoaderBase - The web application [ROOT] appears to have started a thread named [boundedElastic-evictor-1] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
+ java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1758)
+ java.base/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1182)
+ java.base/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1070)
+ java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+ java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+ java.base/java.lang.Thread.run(Thread.java:1583)
+18:48:41.198 [RMI TCP Connection(319)-127.0.0.1] WARN  o.a.c.loader.WebappClassLoaderBase - The web application [ROOT] appears to have started a thread named [pool-10-thread-1] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base/java.util.concurrent.locks.LockSupport.park(LockSupport.java:371)
+ java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:519)
+ java.base/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:3780)
+ java.base/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3725)
+ java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1707)
+ java.base/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1170)
+ java.base/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1070)
+ java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+ java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+ java.base/java.lang.Thread.run(Thread.java:1583)
+18:48:41.198 [RMI TCP Connection(319)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-9006"]
+18:48:41.198 [DiscoveryClient-InstanceInfoReplicator-0] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_UMS-DOCUMENT-SERVICE/IKCON1053:UMS-DOCUMENT-SERVICE:9006 - registration status: 204
+18:48:41.201 [RMI TCP Connection(319)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol - Destroying ProtocolHandler ["http-nio-9006"]
+18:48:41.208 [RMI TCP Connection(319)-127.0.0.1] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+18:48:41.216 [RMI TCP Connection(319)-127.0.0.1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+18:48:41.220 [RMI TCP Connection(319)-127.0.0.1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+18:48:41.222 [RMI TCP Connection(319)-127.0.0.1] INFO  c.netflix.discovery.DiscoveryClient - Shutting down DiscoveryClient ...
+18:48:44.239 [RMI TCP Connection(319)-127.0.0.1] INFO  c.netflix.discovery.DiscoveryClient - Unregistering ...
+18:48:44.255 [RMI TCP Connection(319)-127.0.0.1] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_UMS-DOCUMENT-SERVICE/IKCON1053:UMS-DOCUMENT-SERVICE:9006 - deregister  status: 200
+18:48:44.260 [RMI TCP Connection(319)-127.0.0.1] INFO  c.netflix.discovery.DiscoveryClient - Completed shut down of DiscoveryClient
+18:55:22.924 [restartedMain] INFO  o.s.b.d.restart.ChangeableUrls - The Class-Path manifest attribute in C:\Users\JyothsnaNakkala\.m2\repository\com\oracle\database\jdbc\ojdbc8\21.5.0.0\ojdbc8-21.5.0.0.jar referenced one or more files that do not exist: file:/C:/Users/JyothsnaNakkala/.m2/repository/com/oracle/database/jdbc/ojdbc8/21.5.0.0/oraclepki.jar
+18:55:22.925 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+18:55:24.093 [restartedMain] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at : http://localhost:9296
+18:55:24.459 [restartedMain] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator - Connect Timeout Exception on Url - http://localhost:9296. Will be trying the next url if available
+18:55:24.460 [restartedMain] WARN  o.s.c.c.c.ConfigServicePropertySourceLocator - Could not locate PropertySource: I/O error on GET request for "http://localhost:9296/UMS-DOCUMENT-SERVICE/default": Connection refused: getsockopt; nested exception is java.net.ConnectException: Connection refused: getsockopt
+18:55:24.476 [restartedMain] INFO  c.i.u.UmsDocumentServiceApplication - No active profile set, falling back to 1 default profile: "default"
+18:55:27.871 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+18:55:28.338 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 454 ms. Found 1 JPA repository interfaces.
+18:55:29.154 [restartedMain] INFO  o.s.cloud.context.scope.GenericScope - BeanFactory id=50282dec-c390-3afd-a20e-8c68038d810b
+18:55:31.040 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9006 (http)
+18:55:31.073 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9006"]
+18:55:31.095 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+18:55:31.095 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.78]
+18:55:32.165 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+18:55:32.165 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 7667 ms
+18:55:32.499 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+18:55:33.283 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+18:55:33.300 [restartedMain] INFO  o.s.b.a.h.H2ConsoleAutoConfiguration - H2 console available at '/h2-console'. Database available at 'jdbc:postgresql://localhost:5432/umsdocumentdb'
+18:55:33.780 [restartedMain] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+18:55:33.891 [restartedMain] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.15.Final
+18:55:34.256 [restartedMain] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+18:55:35.196 [restartedMain] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+18:55:37.599 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+18:55:37.615 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+18:55:38.319 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+18:55:39.632 [restartedMain] WARN  o.s.b.d.a.OptionalLiveReloadServer - Unable to start LiveReload server
+18:55:39.753 [restartedMain] INFO  o.s.c.n.e.c.DiscoveryClientOptionalArgsConfiguration - Eureka HTTP Client uses RestTemplate.
+18:55:39.871 [restartedMain] WARN  o.s.c.l.c.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger - Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+18:55:39.890 [restartedMain] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+18:55:40.019 [restartedMain] INFO  o.s.c.n.eureka.InstanceInfoFactory - Setting initial instance status as: STARTING
+18:55:40.078 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Initializing Eureka in region us-east-1
+18:55:40.087 [restartedMain] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+18:55:40.145 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Disable delta property : false
+18:55:40.147 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Single vip registry refresh property : null
+18:55:40.148 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Force full registry fetch : false
+18:55:40.148 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Application is null : false
+18:55:40.148 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Registered Applications size is zero : true
+18:55:40.148 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Application version is -1: true
+18:55:40.153 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Getting all instance registry info from the eureka server
+18:55:40.670 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - The response status is 200
+18:55:40.676 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Starting heartbeat executor: renew interval is: 30
+18:55:40.684 [restartedMain] INFO  c.n.discovery.InstanceInfoReplicator - InstanceInfoReplicator onDemand update allowed rate per min is 4
+18:55:40.697 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Discovery Client initialized at timestamp 1746278740695 with initial instances count: 1
+18:55:40.702 [restartedMain] INFO  o.s.c.n.e.s.EurekaServiceRegistry - Registering application UMS-DOCUMENT-SERVICE with eureka with status UP
+18:55:40.703 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Saw local status change event StatusChangeEvent [timestamp=1746278740703, current=UP, previous=STARTING]
+18:55:40.705 [DiscoveryClient-InstanceInfoReplicator-0] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_UMS-DOCUMENT-SERVICE/IKCON1053:UMS-DOCUMENT-SERVICE:9006: registering service...
+18:55:40.707 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-9006"]
+18:55:40.742 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 9006 (http) with context path ''
+18:55:40.743 [restartedMain] INFO  o.s.c.n.e.s.EurekaAutoServiceRegistration - Updating port to 9006
+18:55:40.762 [DiscoveryClient-InstanceInfoReplicator-0] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_UMS-DOCUMENT-SERVICE/IKCON1053:UMS-DOCUMENT-SERVICE:9006 - registration status: 204
+18:55:40.788 [restartedMain] INFO  c.i.u.UmsDocumentServiceApplication - Started UmsDocumentServiceApplication in 19.455 seconds (JVM running for 23.832)
+18:55:41.108 [RMI TCP Connection(7)-127.0.0.1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+18:55:41.108 [RMI TCP Connection(7)-127.0.0.1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+18:55:41.110 [RMI TCP Connection(7)-127.0.0.1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+18:58:18.508 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getAllInternalNotes(): Fetching all internal notes...
+18:58:18.721 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() entered
+18:58:18.839 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() executed successfully.
+18:58:18.839 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() entered
+18:58:18.914 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() executed successfully.
+18:58:18.914 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() entered
+18:58:18.928 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() executed successfully.
+18:58:18.928 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - Total internal notes retrieved: 4
+18:58:26.811 [http-nio-9006-exec-4] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getAllInternalNotes(): Fetching all internal notes...
+18:58:26.820 [http-nio-9006-exec-4] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() entered
+18:58:26.832 [http-nio-9006-exec-4] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() executed successfully.
+18:58:26.832 [http-nio-9006-exec-4] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() entered
+18:58:26.926 [http-nio-9006-exec-4] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() executed successfully.
+18:58:26.926 [http-nio-9006-exec-4] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() entered
+18:58:26.944 [http-nio-9006-exec-4] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() executed successfully.
+18:58:26.944 [http-nio-9006-exec-4] INFO  c.i.u.s.InternalNotesServiceImpl - Total internal notes retrieved: 4
+18:58:30.287 [http-nio-9006-exec-5] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getAllInternalNotes(): Fetching all internal notes...
+18:58:30.294 [http-nio-9006-exec-5] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() entered
+18:58:30.302 [http-nio-9006-exec-5] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() executed successfully.
+18:58:30.302 [http-nio-9006-exec-5] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() entered
+18:58:30.376 [http-nio-9006-exec-5] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() executed successfully.
+18:58:30.376 [http-nio-9006-exec-5] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() entered
+18:58:30.393 [http-nio-9006-exec-5] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() executed successfully.
+18:58:30.393 [http-nio-9006-exec-5] INFO  c.i.u.s.InternalNotesServiceImpl - Total internal notes retrieved: 4
+19:00:40.162 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+19:05:40.165 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+19:10:40.167 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+19:15:40.167 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+19:20:40.168 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+19:25:40.175 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+19:30:40.176 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+19:35:40.186 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+19:40:40.190 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+19:45:40.196 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+19:50:40.207 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+19:55:40.219 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+20:00:40.226 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+20:05:40.241 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+20:10:40.245 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+20:15:40.247 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+20:20:40.255 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+20:25:40.269 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration

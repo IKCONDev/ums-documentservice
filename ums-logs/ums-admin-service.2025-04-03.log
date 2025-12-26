@@ -1,0 +1,59 @@
+18:44:14.966 [restartedMain] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at : http://localhost:9296
+18:44:14.972 [restartedMain] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator - Connect Timeout Exception on Url - http://localhost:9296. Will be trying the next url if available
+18:44:14.972 [restartedMain] WARN  o.s.c.c.c.ConfigServicePropertySourceLocator - Could not locate PropertySource: I/O error on GET request for "http://localhost:9296/UMS-DOCUMENT-SERVICE/default": Connection refused: getsockopt; nested exception is java.net.ConnectException: Connection refused: getsockopt
+18:44:14.975 [restartedMain] INFO  c.i.u.UmsDocumentServiceApplication - No active profile set, falling back to 1 default profile: "default"
+18:44:15.538 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+18:44:15.563 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 24 ms. Found 1 JPA repository interfaces.
+18:44:15.677 [restartedMain] INFO  o.s.cloud.context.scope.GenericScope - BeanFactory id=35ace493-5671-3ad5-ac1e-182b9d87214f
+18:44:15.797 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9006 (http)
+18:44:15.798 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+18:44:15.798 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.78]
+18:44:15.847 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+18:44:15.847 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 869 ms
+18:44:15.896 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-6 - Starting...
+18:44:16.036 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-6 - Start completed.
+18:44:16.036 [restartedMain] INFO  o.s.b.a.h.H2ConsoleAutoConfiguration - H2 console available at '/h2-console'. Database available at 'jdbc:postgresql://localhost:5432/umsdocumentdb'
+18:44:16.101 [restartedMain] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+18:44:16.110 [restartedMain] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+18:44:16.342 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+18:44:16.342 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+18:44:16.531 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+18:44:16.901 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+18:44:16.918 [restartedMain] INFO  o.s.c.n.e.c.DiscoveryClientOptionalArgsConfiguration - Eureka HTTP Client uses RestTemplate.
+18:44:16.954 [restartedMain] WARN  o.s.c.l.c.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger - Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+18:44:16.959 [restartedMain] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+18:44:17.009 [restartedMain] INFO  o.s.c.n.eureka.InstanceInfoFactory - Setting initial instance status as: STARTING
+18:44:17.013 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Initializing Eureka in region us-east-1
+18:44:17.014 [restartedMain] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+18:44:17.016 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Disable delta property : false
+18:44:17.016 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Single vip registry refresh property : null
+18:44:17.016 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Force full registry fetch : false
+18:44:17.016 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Application is null : false
+18:44:17.016 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Registered Applications size is zero : true
+18:44:17.016 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Application version is -1: true
+18:44:17.016 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Getting all instance registry info from the eureka server
+18:44:17.039 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - The response status is 200
+18:44:17.040 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Starting heartbeat executor: renew interval is: 30
+18:44:17.041 [restartedMain] INFO  c.n.discovery.InstanceInfoReplicator - InstanceInfoReplicator onDemand update allowed rate per min is 4
+18:44:17.044 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Discovery Client initialized at timestamp 1743686057043 with initial instances count: 9
+18:44:17.048 [restartedMain] INFO  o.s.c.n.e.s.EurekaServiceRegistry - Registering application UMS-DOCUMENT-SERVICE with eureka with status UP
+18:44:17.049 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Saw local status change event StatusChangeEvent [timestamp=1743686057049, current=UP, previous=STARTING]
+18:44:17.049 [DiscoveryClient-InstanceInfoReplicator-0] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_UMS-DOCUMENT-SERVICE/IKCON1039:UMS-DOCUMENT-SERVICE:9006: registering service...
+18:44:17.058 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 9006 (http) with context path ''
+18:44:17.060 [restartedMain] INFO  o.s.c.n.e.s.EurekaAutoServiceRegistration - Updating port to 9006
+18:44:17.087 [DiscoveryClient-InstanceInfoReplicator-0] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_UMS-DOCUMENT-SERVICE/IKCON1039:UMS-DOCUMENT-SERVICE:9006 - registration status: 204
+18:44:17.099 [restartedMain] INFO  c.i.u.UmsDocumentServiceApplication - Started UmsDocumentServiceApplication in 2.397 seconds (JVM running for 1872.005)
+18:44:17.107 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+18:44:26.639 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+18:44:26.640 [Thread-38] INFO  o.s.c.n.e.s.EurekaServiceRegistry - Unregistering application UMS-DOCUMENT-SERVICE with eureka with status DOWN
+18:44:26.640 [Thread-38] INFO  c.netflix.discovery.DiscoveryClient - Saw local status change event StatusChangeEvent [timestamp=1743686066640, current=DOWN, previous=UP]
+18:44:26.640 [DiscoveryClient-InstanceInfoReplicator-0] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_UMS-DOCUMENT-SERVICE/IKCON1039:UMS-DOCUMENT-SERVICE:9006: registering service...
+18:44:26.645 [Thread-38] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+18:44:26.652 [Thread-38] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+18:44:26.653 [DiscoveryClient-InstanceInfoReplicator-0] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_UMS-DOCUMENT-SERVICE/IKCON1039:UMS-DOCUMENT-SERVICE:9006 - registration status: 204
+18:44:26.655 [Thread-38] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-6 - Shutdown initiated...
+18:44:26.658 [Thread-38] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-6 - Shutdown completed.
+18:44:26.659 [Thread-38] INFO  c.netflix.discovery.DiscoveryClient - Shutting down DiscoveryClient ...
+18:44:29.671 [Thread-38] INFO  c.netflix.discovery.DiscoveryClient - Unregistering ...
+18:44:29.687 [Thread-38] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_UMS-DOCUMENT-SERVICE/IKCON1039:UMS-DOCUMENT-SERVICE:9006 - deregister  status: 200
+18:44:29.690 [Thread-38] INFO  c.netflix.discovery.DiscoveryClient - Completed shut down of DiscoveryClient

@@ -1,0 +1,354 @@
+07:44:33.006 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=10h23m29s703ms19µs800ns).
+07:46:06.696 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+08:43:13.867 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=55m10s789ms643µs700ns).
+08:45:48.521 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+09:47:28.163 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h43s201ms261µs700ns).
+09:56:35.257 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m7s93ms941µs500ns).
+09:59:38.829 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+10:04:38.832 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+10:09:38.844 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+10:14:38.846 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+10:19:38.847 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+10:24:38.857 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+10:29:38.861 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+10:34:38.875 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+10:39:38.888 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+10:44:38.896 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+10:49:38.896 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+10:54:38.898 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+10:59:38.906 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+11:04:38.919 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+11:09:38.928 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+11:14:38.939 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+11:19:38.945 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+11:24:38.948 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+11:29:38.950 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+11:34:38.962 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+11:39:38.970 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+11:44:38.973 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+11:49:38.980 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+11:54:38.982 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+11:59:38.994 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+12:02:55.594 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getAllInternalNotes(): Fetching all internal notes...
+12:02:55.619 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() entered
+12:02:55.630 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() executed successfully.
+12:02:55.630 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() entered
+12:02:55.683 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() executed successfully.
+12:02:55.685 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() entered
+12:02:55.695 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() executed successfully.
+12:02:55.695 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - Total internal notes retrieved: 4
+12:02:55.847 [http-nio-9006-exec-6] WARN  o.h.e.jdbc.spi.SqlExceptionHelper - SQL Warning Code: 0, SQLState: 01000
+12:02:55.847 [http-nio-9006-exec-6] WARN  o.h.e.jdbc.spi.SqlExceptionHelper - database "umsdocumentdb" has a collation version mismatch
+12:04:39.009 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+12:09:39.012 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+12:14:39.022 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+12:19:39.032 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+12:24:39.033 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+12:27:11.674 [http-nio-9006-exec-8] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getAllInternalNotes(): Fetching all internal notes...
+12:27:11.686 [http-nio-9006-exec-8] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() entered
+12:27:11.695 [http-nio-9006-exec-8] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() executed successfully.
+12:27:11.695 [http-nio-9006-exec-8] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() entered
+12:27:11.784 [http-nio-9006-exec-8] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() executed successfully.
+12:27:11.785 [http-nio-9006-exec-8] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() entered
+12:27:11.798 [http-nio-9006-exec-8] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() executed successfully.
+12:27:11.798 [http-nio-9006-exec-8] INFO  c.i.u.s.InternalNotesServiceImpl - Total internal notes retrieved: 4
+12:27:11.993 [http-nio-9006-exec-8] WARN  o.h.e.jdbc.spi.SqlExceptionHelper - SQL Warning Code: 0, SQLState: 01000
+12:27:11.993 [http-nio-9006-exec-8] WARN  o.h.e.jdbc.spi.SqlExceptionHelper - database "umsdocumentdb" has a collation version mismatch
+12:29:39.044 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+12:34:39.049 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+12:39:39.062 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+12:44:39.071 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+12:49:39.077 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+12:54:39.080 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+12:59:39.082 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+13:01:04.161 [http-nio-9006-exec-10] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getAllInternalNotes(): Fetching all internal notes...
+13:01:04.171 [http-nio-9006-exec-10] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() entered
+13:01:04.178 [http-nio-9006-exec-10] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() executed successfully.
+13:01:04.178 [http-nio-9006-exec-10] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() entered
+13:01:04.279 [http-nio-9006-exec-10] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() executed successfully.
+13:01:04.279 [http-nio-9006-exec-10] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() entered
+13:01:04.288 [http-nio-9006-exec-10] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() executed successfully.
+13:01:04.288 [http-nio-9006-exec-10] INFO  c.i.u.s.InternalNotesServiceImpl - Total internal notes retrieved: 4
+13:01:04.423 [http-nio-9006-exec-10] WARN  o.h.e.jdbc.spi.SqlExceptionHelper - SQL Warning Code: 0, SQLState: 01000
+13:01:04.423 [http-nio-9006-exec-10] WARN  o.h.e.jdbc.spi.SqlExceptionHelper - database "umsdocumentdb" has a collation version mismatch
+13:01:23.344 [http-nio-9006-exec-3] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getAllInternalNotes(): Fetching all internal notes...
+13:01:23.349 [http-nio-9006-exec-3] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() entered
+13:01:23.354 [http-nio-9006-exec-3] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() executed successfully.
+13:01:23.354 [http-nio-9006-exec-3] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() entered
+13:01:23.426 [http-nio-9006-exec-3] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() executed successfully.
+13:01:23.426 [http-nio-9006-exec-3] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() entered
+13:01:23.438 [http-nio-9006-exec-3] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() executed successfully.
+13:01:23.438 [http-nio-9006-exec-3] INFO  c.i.u.s.InternalNotesServiceImpl - Total internal notes retrieved: 4
+13:04:39.095 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+13:09:39.106 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+13:14:39.116 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+13:19:39.119 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+13:52:44.259 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=29m5s811ms241µs800ns).
+13:53:34.638 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+13:58:34.643 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+14:03:34.645 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+14:07:31.004 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getAllInternalNotes(): Fetching all internal notes...
+14:07:31.018 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() entered
+14:07:31.029 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() executed successfully.
+14:07:31.029 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() entered
+14:07:31.108 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() executed successfully.
+14:07:31.108 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() entered
+14:07:31.133 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() executed successfully.
+14:07:31.133 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - Total internal notes retrieved: 4
+14:07:31.289 [http-nio-9006-exec-1] WARN  o.h.e.jdbc.spi.SqlExceptionHelper - SQL Warning Code: 0, SQLState: 01000
+14:07:31.289 [http-nio-9006-exec-1] WARN  o.h.e.jdbc.spi.SqlExceptionHelper - database "umsdocumentdb" has a collation version mismatch
+14:08:34.649 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+14:11:22.879 [http-nio-9006-exec-5] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getAllInternalNotes(): Fetching all internal notes...
+14:11:22.888 [http-nio-9006-exec-5] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() entered
+14:11:22.896 [http-nio-9006-exec-5] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() executed successfully.
+14:11:22.896 [http-nio-9006-exec-5] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() entered
+14:11:23.074 [http-nio-9006-exec-5] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() executed successfully.
+14:11:23.074 [http-nio-9006-exec-5] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() entered
+14:11:23.084 [http-nio-9006-exec-5] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() executed successfully.
+14:11:23.084 [http-nio-9006-exec-5] INFO  c.i.u.s.InternalNotesServiceImpl - Total internal notes retrieved: 4
+14:11:47.362 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getAllInternalNotes(): Fetching all internal notes...
+14:11:47.368 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() entered
+14:11:47.372 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() executed successfully.
+14:11:47.372 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() entered
+14:11:47.409 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() executed successfully.
+14:11:47.409 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() entered
+14:11:47.418 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() executed successfully.
+14:11:47.418 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - Total internal notes retrieved: 4
+14:12:29.207 [http-nio-9006-exec-7] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getAllInternalNotes(): Fetching all internal notes...
+14:12:29.212 [http-nio-9006-exec-7] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() entered
+14:12:29.217 [http-nio-9006-exec-7] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() executed successfully.
+14:12:29.217 [http-nio-9006-exec-7] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() entered
+14:12:29.261 [http-nio-9006-exec-7] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() executed successfully.
+14:12:29.262 [http-nio-9006-exec-7] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() entered
+14:12:29.272 [http-nio-9006-exec-7] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() executed successfully.
+14:12:29.272 [http-nio-9006-exec-7] INFO  c.i.u.s.InternalNotesServiceImpl - Total internal notes retrieved: 4
+14:12:50.238 [http-nio-9006-exec-8] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getAllInternalNotes(): Fetching all internal notes...
+14:12:50.244 [http-nio-9006-exec-8] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() entered
+14:12:50.248 [http-nio-9006-exec-8] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() executed successfully.
+14:12:50.248 [http-nio-9006-exec-8] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() entered
+14:12:50.289 [http-nio-9006-exec-8] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() executed successfully.
+14:12:50.290 [http-nio-9006-exec-8] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() entered
+14:12:50.300 [http-nio-9006-exec-8] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() executed successfully.
+14:12:50.300 [http-nio-9006-exec-8] INFO  c.i.u.s.InternalNotesServiceImpl - Total internal notes retrieved: 4
+14:13:34.652 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+14:15:40.648 [http-nio-9006-exec-10] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getAllInternalNotes(): Fetching all internal notes...
+14:15:40.659 [http-nio-9006-exec-10] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() entered
+14:15:40.667 [http-nio-9006-exec-10] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() executed successfully.
+14:15:40.667 [http-nio-9006-exec-10] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() entered
+14:15:40.740 [http-nio-9006-exec-10] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() executed successfully.
+14:15:40.740 [http-nio-9006-exec-10] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() entered
+14:15:40.779 [http-nio-9006-exec-10] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() executed successfully.
+14:15:40.779 [http-nio-9006-exec-10] INFO  c.i.u.s.InternalNotesServiceImpl - Total internal notes retrieved: 4
+14:16:00.890 [http-nio-9006-exec-3] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getAllInternalNotes(): Fetching all internal notes...
+14:16:00.894 [http-nio-9006-exec-3] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() entered
+14:16:00.896 [http-nio-9006-exec-3] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() executed successfully.
+14:16:00.896 [http-nio-9006-exec-3] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() entered
+14:16:00.936 [http-nio-9006-exec-3] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() executed successfully.
+14:16:00.937 [http-nio-9006-exec-3] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() entered
+14:16:00.945 [http-nio-9006-exec-3] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() executed successfully.
+14:16:00.945 [http-nio-9006-exec-3] INFO  c.i.u.s.InternalNotesServiceImpl - Total internal notes retrieved: 4
+14:16:09.110 [http-nio-9006-exec-2] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getAllInternalNotes(): Fetching all internal notes...
+14:16:09.116 [http-nio-9006-exec-2] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() entered
+14:16:09.123 [http-nio-9006-exec-2] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() executed successfully.
+14:16:09.124 [http-nio-9006-exec-2] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() entered
+14:16:09.171 [http-nio-9006-exec-2] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() executed successfully.
+14:16:09.171 [http-nio-9006-exec-2] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() entered
+14:16:09.180 [http-nio-9006-exec-2] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() executed successfully.
+14:16:09.180 [http-nio-9006-exec-2] INFO  c.i.u.s.InternalNotesServiceImpl - Total internal notes retrieved: 4
+14:16:29.569 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getAllInternalNotes(): Fetching all internal notes...
+14:16:29.572 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() entered
+14:16:29.576 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() executed successfully.
+14:16:29.576 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() entered
+14:16:29.617 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() executed successfully.
+14:16:29.617 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() entered
+14:16:29.626 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() executed successfully.
+14:16:29.626 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - Total internal notes retrieved: 4
+14:18:34.658 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+14:23:34.669 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+14:28:34.680 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+14:33:34.683 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+14:38:34.692 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+14:39:17.832 [http-nio-9006-exec-5] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getAllInternalNotes(): Fetching all internal notes...
+14:39:17.842 [http-nio-9006-exec-5] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() entered
+14:39:17.849 [http-nio-9006-exec-5] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() executed successfully.
+14:39:17.849 [http-nio-9006-exec-5] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() entered
+14:39:17.886 [http-nio-9006-exec-5] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() executed successfully.
+14:39:17.886 [http-nio-9006-exec-5] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() entered
+14:39:17.899 [http-nio-9006-exec-5] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() executed successfully.
+14:39:17.899 [http-nio-9006-exec-5] INFO  c.i.u.s.InternalNotesServiceImpl - Total internal notes retrieved: 4
+14:39:18.111 [http-nio-9006-exec-5] WARN  o.h.e.jdbc.spi.SqlExceptionHelper - SQL Warning Code: 0, SQLState: 01000
+14:39:18.112 [http-nio-9006-exec-5] WARN  o.h.e.jdbc.spi.SqlExceptionHelper - database "umsdocumentdb" has a collation version mismatch
+14:43:34.700 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+14:48:34.712 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+14:49:11.886 [http-nio-9006-exec-7] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getAllInternalNotes(): Fetching all internal notes...
+14:49:11.893 [http-nio-9006-exec-7] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() entered
+14:49:11.900 [http-nio-9006-exec-7] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() executed successfully.
+14:49:11.900 [http-nio-9006-exec-7] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() entered
+14:49:11.956 [http-nio-9006-exec-7] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() executed successfully.
+14:49:11.956 [http-nio-9006-exec-7] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() entered
+14:49:11.966 [http-nio-9006-exec-7] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() executed successfully.
+14:49:11.966 [http-nio-9006-exec-7] INFO  c.i.u.s.InternalNotesServiceImpl - Total internal notes retrieved: 4
+14:49:38.019 [http-nio-9006-exec-8] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getAllInternalNotes(): Fetching all internal notes...
+14:49:38.024 [http-nio-9006-exec-8] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() entered
+14:49:38.028 [http-nio-9006-exec-8] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() executed successfully.
+14:49:38.028 [http-nio-9006-exec-8] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() entered
+14:49:38.062 [http-nio-9006-exec-8] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() executed successfully.
+14:49:38.062 [http-nio-9006-exec-8] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() entered
+14:49:38.072 [http-nio-9006-exec-8] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() executed successfully.
+14:49:38.072 [http-nio-9006-exec-8] INFO  c.i.u.s.InternalNotesServiceImpl - Total internal notes retrieved: 4
+14:50:05.185 [http-nio-9006-exec-9] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getAllInternalNotes(): Fetching all internal notes...
+14:50:05.191 [http-nio-9006-exec-9] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() entered
+14:50:05.196 [http-nio-9006-exec-9] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() executed successfully.
+14:50:05.196 [http-nio-9006-exec-9] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() entered
+14:50:05.238 [http-nio-9006-exec-9] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() executed successfully.
+14:50:05.238 [http-nio-9006-exec-9] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() entered
+14:50:05.248 [http-nio-9006-exec-9] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() executed successfully.
+14:50:05.248 [http-nio-9006-exec-9] INFO  c.i.u.s.InternalNotesServiceImpl - Total internal notes retrieved: 4
+14:50:53.733 [http-nio-9006-exec-10] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getAllInternalNotes(): Fetching all internal notes...
+14:50:53.738 [http-nio-9006-exec-10] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() entered
+14:50:53.743 [http-nio-9006-exec-10] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() executed successfully.
+14:50:53.743 [http-nio-9006-exec-10] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() entered
+14:50:53.782 [http-nio-9006-exec-10] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() executed successfully.
+14:50:53.782 [http-nio-9006-exec-10] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() entered
+14:50:53.791 [http-nio-9006-exec-10] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() executed successfully.
+14:50:53.791 [http-nio-9006-exec-10] INFO  c.i.u.s.InternalNotesServiceImpl - Total internal notes retrieved: 4
+14:51:14.817 [http-nio-9006-exec-3] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getAllInternalNotes(): Fetching all internal notes...
+14:51:14.821 [http-nio-9006-exec-3] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() entered
+14:51:14.826 [http-nio-9006-exec-3] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() executed successfully.
+14:51:14.826 [http-nio-9006-exec-3] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() entered
+14:51:14.874 [http-nio-9006-exec-3] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() executed successfully.
+14:51:14.874 [http-nio-9006-exec-3] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() entered
+14:51:14.884 [http-nio-9006-exec-3] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() executed successfully.
+14:51:14.884 [http-nio-9006-exec-3] INFO  c.i.u.s.InternalNotesServiceImpl - Total internal notes retrieved: 4
+14:53:34.720 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+14:58:34.733 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+15:03:41.212 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+15:08:41.218 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+15:13:41.226 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+15:18:41.239 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+15:23:41.254 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+15:28:41.262 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+15:38:28.485 [restartedMain] INFO  o.s.b.d.restart.ChangeableUrls - The Class-Path manifest attribute in C:\Users\JyothsnaNakkala\.m2\repository\com\oracle\database\jdbc\ojdbc8\21.5.0.0\ojdbc8-21.5.0.0.jar referenced one or more files that do not exist: file:/C:/Users/JyothsnaNakkala/.m2/repository/com/oracle/database/jdbc/ojdbc8/21.5.0.0/oraclepki.jar
+15:38:28.487 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+15:38:29.633 [restartedMain] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at : http://localhost:9296
+15:38:29.931 [restartedMain] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator - Connect Timeout Exception on Url - http://localhost:9296. Will be trying the next url if available
+15:38:29.931 [restartedMain] WARN  o.s.c.c.c.ConfigServicePropertySourceLocator - Could not locate PropertySource: I/O error on GET request for "http://localhost:9296/UMS-DOCUMENT-SERVICE/default": Connection refused: getsockopt; nested exception is java.net.ConnectException: Connection refused: getsockopt
+15:38:29.934 [restartedMain] INFO  c.i.u.UmsDocumentServiceApplication - No active profile set, falling back to 1 default profile: "default"
+15:38:32.959 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+15:38:33.419 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 443 ms. Found 1 JPA repository interfaces.
+15:38:34.169 [restartedMain] INFO  o.s.cloud.context.scope.GenericScope - BeanFactory id=50282dec-c390-3afd-a20e-8c68038d810b
+15:38:35.766 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9006 (http)
+15:38:35.786 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9006"]
+15:38:35.789 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+15:38:35.800 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.78]
+15:38:37.188 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+15:38:37.189 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 7224 ms
+15:38:37.464 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+15:38:38.402 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+15:38:38.419 [restartedMain] INFO  o.s.b.a.h.H2ConsoleAutoConfiguration - H2 console available at '/h2-console'. Database available at 'jdbc:postgresql://localhost:5432/umsdocumentdb'
+15:38:38.823 [restartedMain] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+15:38:38.980 [restartedMain] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.15.Final
+15:38:39.356 [restartedMain] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+15:38:39.965 [restartedMain] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+15:38:43.878 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+15:38:43.894 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+15:38:44.888 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+15:38:46.906 [restartedMain] WARN  o.s.b.d.a.OptionalLiveReloadServer - Unable to start LiveReload server
+15:38:47.244 [restartedMain] INFO  o.s.c.n.e.c.DiscoveryClientOptionalArgsConfiguration - Eureka HTTP Client uses RestTemplate.
+15:38:47.428 [restartedMain] WARN  o.s.c.l.c.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger - Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+15:38:47.447 [restartedMain] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+15:38:47.722 [restartedMain] INFO  o.s.c.n.eureka.InstanceInfoFactory - Setting initial instance status as: STARTING
+15:38:47.823 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Initializing Eureka in region us-east-1
+15:38:47.839 [restartedMain] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+15:38:47.888 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Disable delta property : false
+15:38:47.888 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Single vip registry refresh property : null
+15:38:47.888 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Force full registry fetch : false
+15:38:47.888 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Application is null : false
+15:38:47.888 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Registered Applications size is zero : true
+15:38:47.888 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Application version is -1: true
+15:38:47.889 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Getting all instance registry info from the eureka server
+15:38:49.086 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - The response status is 200
+15:38:49.089 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Starting heartbeat executor: renew interval is: 30
+15:38:49.094 [restartedMain] INFO  c.n.discovery.InstanceInfoReplicator - InstanceInfoReplicator onDemand update allowed rate per min is 4
+15:38:49.102 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Discovery Client initialized at timestamp 1746180529100 with initial instances count: 0
+15:38:49.106 [restartedMain] INFO  o.s.c.n.e.s.EurekaServiceRegistry - Registering application UMS-DOCUMENT-SERVICE with eureka with status UP
+15:38:49.107 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Saw local status change event StatusChangeEvent [timestamp=1746180529107, current=UP, previous=STARTING]
+15:38:49.109 [DiscoveryClient-InstanceInfoReplicator-0] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_UMS-DOCUMENT-SERVICE/IKCON1053:UMS-DOCUMENT-SERVICE:9006: registering service...
+15:38:49.110 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-9006"]
+15:38:49.163 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 9006 (http) with context path ''
+15:38:49.164 [restartedMain] INFO  o.s.c.n.e.s.EurekaAutoServiceRegistration - Updating port to 9006
+15:38:49.369 [DiscoveryClient-InstanceInfoReplicator-0] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_UMS-DOCUMENT-SERVICE/IKCON1053:UMS-DOCUMENT-SERVICE:9006 - registration status: 204
+15:38:49.654 [restartedMain] INFO  c.i.u.UmsDocumentServiceApplication - Started UmsDocumentServiceApplication in 23.238 seconds (JVM running for 26.755)
+15:38:50.155 [RMI TCP Connection(8)-127.0.0.1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+15:38:50.157 [RMI TCP Connection(8)-127.0.0.1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+15:38:50.159 [RMI TCP Connection(8)-127.0.0.1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+15:39:19.098 [DiscoveryClient-CacheRefreshExecutor-0] INFO  c.netflix.discovery.DiscoveryClient - Disable delta property : false
+15:39:19.098 [DiscoveryClient-CacheRefreshExecutor-0] INFO  c.netflix.discovery.DiscoveryClient - Single vip registry refresh property : null
+15:39:19.099 [DiscoveryClient-CacheRefreshExecutor-0] INFO  c.netflix.discovery.DiscoveryClient - Force full registry fetch : false
+15:39:19.099 [DiscoveryClient-CacheRefreshExecutor-0] INFO  c.netflix.discovery.DiscoveryClient - Application is null : false
+15:39:19.099 [DiscoveryClient-CacheRefreshExecutor-0] INFO  c.netflix.discovery.DiscoveryClient - Registered Applications size is zero : true
+15:39:19.099 [DiscoveryClient-CacheRefreshExecutor-0] INFO  c.netflix.discovery.DiscoveryClient - Application version is -1: false
+15:39:19.099 [DiscoveryClient-CacheRefreshExecutor-0] INFO  c.netflix.discovery.DiscoveryClient - Getting all instance registry info from the eureka server
+15:39:19.119 [DiscoveryClient-CacheRefreshExecutor-0] INFO  c.netflix.discovery.DiscoveryClient - The response status is 200
+15:41:44.947 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getAllInternalNotes(): Fetching all internal notes...
+15:41:45.217 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() entered
+15:41:45.353 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() executed successfully.
+15:41:45.353 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() entered
+15:41:45.490 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() executed successfully.
+15:41:45.490 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() entered
+15:41:45.512 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() executed successfully.
+15:41:45.512 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - Total internal notes retrieved: 4
+15:43:47.915 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+15:48:47.928 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+15:49:49.165 [http-nio-9006-exec-5] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getInternalNotesById(): Fetching internal note with ID: 5
+15:49:49.192 [http-nio-9006-exec-5] INFO  c.i.u.s.InternalNotesServiceImpl - Internal note retrieved successfully with ID: 5
+15:53:47.942 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+15:58:47.954 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+16:03:47.958 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+16:03:54.727 [http-nio-9006-exec-9] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getInternalNotesById(): Fetching internal note with ID: 5
+16:03:54.738 [http-nio-9006-exec-9] INFO  c.i.u.s.InternalNotesServiceImpl - Internal note retrieved successfully with ID: 5
+16:04:09.251 [http-nio-9006-exec-10] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, updateInternalNotes(): Updating internal note with ID: 5
+16:04:09.376 [http-nio-9006-exec-10] INFO  c.i.u.s.InternalNotesServiceImpl - Internal note updated successfully with ID: 5
+16:04:11.379 [http-nio-9006-exec-4] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getAllInternalNotes(): Fetching all internal notes...
+16:04:11.390 [http-nio-9006-exec-4] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() entered
+16:04:11.406 [http-nio-9006-exec-4] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() executed successfully.
+16:04:11.406 [http-nio-9006-exec-4] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() entered
+16:04:11.541 [http-nio-9006-exec-4] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() executed successfully.
+16:04:11.541 [http-nio-9006-exec-4] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() entered
+16:04:11.568 [http-nio-9006-exec-4] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() executed successfully.
+16:04:11.568 [http-nio-9006-exec-4] INFO  c.i.u.s.InternalNotesServiceImpl - Total internal notes retrieved: 4
+16:08:47.973 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+16:13:47.990 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+16:18:48.002 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+16:23:48.014 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+16:28:48.028 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+16:33:48.038 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+16:38:48.052 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+16:43:48.067 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+16:48:48.079 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+16:53:48.088 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+16:58:48.101 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+17:03:48.107 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+17:08:48.111 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+17:13:48.119 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+17:18:48.129 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+17:23:48.141 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+17:28:48.144 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+17:33:48.154 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+17:38:48.157 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+17:43:48.170 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+17:48:48.182 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+17:53:48.189 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+17:58:48.204 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+18:03:48.210 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+18:08:48.222 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+18:13:48.229 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+18:18:48.244 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+18:23:48.256 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+18:28:48.272 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+18:33:48.285 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+18:38:48.298 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+18:43:48.302 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+18:48:48.305 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+18:53:48.321 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+18:58:48.328 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration

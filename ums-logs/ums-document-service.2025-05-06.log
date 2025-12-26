@@ -1,0 +1,152 @@
+09:51:59.870 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=14h49m27s168ms277µs100ns).
+09:53:05.470 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+09:58:05.477 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+10:03:05.490 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+10:08:05.521 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+10:13:05.536 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+10:13:08.081 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getAllInternalNotes(): Fetching all internal notes...
+10:13:08.330 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() entered
+10:13:08.486 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() executed successfully.
+10:13:08.486 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() entered
+10:13:08.562 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() executed successfully.
+10:13:08.562 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() entered
+10:13:08.576 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() executed successfully.
+10:13:08.576 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - Total internal notes retrieved: 4
+10:13:08.739 [http-nio-9006-exec-1] WARN  o.h.e.jdbc.spi.SqlExceptionHelper - SQL Warning Code: 0, SQLState: 01000
+10:13:08.739 [http-nio-9006-exec-1] WARN  o.h.e.jdbc.spi.SqlExceptionHelper - database "umsdocumentdb" has a collation version mismatch
+10:18:05.538 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+10:23:05.553 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+10:28:05.553 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+10:33:05.569 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+10:38:05.580 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+10:43:05.583 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+10:45:57.002 [http-nio-9006-exec-5] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getInternalNotesById(): Fetching internal note with ID: 5
+10:45:57.026 [http-nio-9006-exec-5] INFO  c.i.u.s.InternalNotesServiceImpl - Internal note retrieved successfully with ID: 5
+10:45:57.042 [http-nio-9006-exec-5] WARN  o.h.e.jdbc.spi.SqlExceptionHelper - SQL Warning Code: 0, SQLState: 01000
+10:45:57.043 [http-nio-9006-exec-5] WARN  o.h.e.jdbc.spi.SqlExceptionHelper - database "umsdocumentdb" has a collation version mismatch
+10:48:05.587 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+10:53:05.588 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+10:58:05.603 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+11:03:05.609 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+11:08:05.623 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+11:13:05.631 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+11:18:05.647 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+11:23:05.652 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+11:28:05.655 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+11:33:05.664 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+11:38:05.665 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+11:43:05.676 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+11:48:05.682 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+11:53:05.694 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+11:58:05.710 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+12:03:05.720 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+12:08:05.731 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+12:13:05.741 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+12:18:05.748 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+12:23:05.757 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+12:28:05.770 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+12:33:05.774 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+12:38:05.784 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+12:43:05.786 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+12:48:05.799 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+12:53:05.805 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+12:57:46.197 [http-nio-9006-exec-9] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getAllInternalNotes(): Fetching all internal notes...
+12:57:46.211 [http-nio-9006-exec-9] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() entered
+12:57:46.231 [http-nio-9006-exec-9] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() executed successfully.
+12:57:46.231 [http-nio-9006-exec-9] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() entered
+12:57:46.313 [http-nio-9006-exec-9] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() executed successfully.
+12:57:46.313 [http-nio-9006-exec-9] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() entered
+12:57:46.321 [http-nio-9006-exec-9] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() executed successfully.
+12:57:46.321 [http-nio-9006-exec-9] INFO  c.i.u.s.InternalNotesServiceImpl - Total internal notes retrieved: 4
+12:57:46.437 [http-nio-9006-exec-9] WARN  o.h.e.jdbc.spi.SqlExceptionHelper - SQL Warning Code: 0, SQLState: 01000
+12:57:46.437 [http-nio-9006-exec-9] WARN  o.h.e.jdbc.spi.SqlExceptionHelper - database "umsdocumentdb" has a collation version mismatch
+12:58:05.810 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+12:58:24.507 [http-nio-9006-exec-10] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getAllInternalNotes(): Fetching all internal notes...
+12:58:24.513 [http-nio-9006-exec-10] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() entered
+12:58:24.518 [http-nio-9006-exec-10] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() executed successfully.
+12:58:24.518 [http-nio-9006-exec-10] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() entered
+12:58:24.572 [http-nio-9006-exec-10] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() executed successfully.
+12:58:24.572 [http-nio-9006-exec-10] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() entered
+12:58:24.588 [http-nio-9006-exec-10] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() executed successfully.
+12:58:24.588 [http-nio-9006-exec-10] INFO  c.i.u.s.InternalNotesServiceImpl - Total internal notes retrieved: 4
+13:03:05.817 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+13:08:05.830 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+13:13:05.834 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+13:18:05.836 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+13:23:05.837 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+13:28:05.841 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+13:33:05.856 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+14:10:57.510 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=33m54s416ms381µs600ns).
+14:11:30.273 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+14:16:30.287 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+14:21:30.299 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+14:26:30.305 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+14:31:30.310 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+14:36:30.313 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+14:41:30.325 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+14:46:30.339 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+14:51:30.344 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+14:56:30.349 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+15:01:30.355 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+15:06:30.370 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+15:11:30.376 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+15:16:30.385 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+15:21:30.395 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+15:26:30.405 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+15:31:30.418 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+15:36:30.423 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+15:41:30.435 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+15:46:30.438 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+15:51:30.451 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+15:56:30.456 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+16:01:30.470 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+16:06:30.474 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+16:11:30.477 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+16:16:30.493 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+16:21:30.509 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+16:26:30.525 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+16:31:30.527 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+16:36:30.541 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+16:41:30.542 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+16:46:30.555 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+16:48:39.214 [http-nio-9006-exec-4] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getAllInternalNotes(): Fetching all internal notes...
+16:48:39.243 [http-nio-9006-exec-4] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() entered
+16:48:39.251 [http-nio-9006-exec-4] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() executed successfully.
+16:48:39.251 [http-nio-9006-exec-4] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() entered
+16:48:39.292 [http-nio-9006-exec-4] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() executed successfully.
+16:48:39.292 [http-nio-9006-exec-4] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() entered
+16:48:39.302 [http-nio-9006-exec-4] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() executed successfully.
+16:48:39.302 [http-nio-9006-exec-4] INFO  c.i.u.s.InternalNotesServiceImpl - Total internal notes retrieved: 4
+16:48:39.421 [http-nio-9006-exec-4] WARN  o.h.e.jdbc.spi.SqlExceptionHelper - SQL Warning Code: 0, SQLState: 01000
+16:48:39.422 [http-nio-9006-exec-4] WARN  o.h.e.jdbc.spi.SqlExceptionHelper - database "umsdocumentdb" has a collation version mismatch
+16:51:30.566 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+16:56:30.575 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+17:01:30.585 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+17:06:30.597 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+17:11:30.609 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+17:16:30.619 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+17:21:30.631 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+17:26:30.642 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+17:31:30.650 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+17:36:30.663 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+17:41:30.672 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+17:46:30.688 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+17:51:30.702 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+17:56:30.718 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+18:32:52.280 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=34m51s456ms934µs500ns).
+18:35:52.167 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+18:40:52.184 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+18:41:23.064 [http-nio-9006-exec-8] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getAllInternalNotes(): Fetching all internal notes...
+18:41:23.094 [http-nio-9006-exec-8] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() entered
+18:41:23.103 [http-nio-9006-exec-8] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() executed successfully.
+18:41:23.103 [http-nio-9006-exec-8] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() entered
+18:41:23.261 [http-nio-9006-exec-8] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() executed successfully.
+18:41:23.261 [http-nio-9006-exec-8] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() entered
+18:41:23.281 [http-nio-9006-exec-8] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() executed successfully.
+18:41:23.281 [http-nio-9006-exec-8] INFO  c.i.u.s.InternalNotesServiceImpl - Total internal notes retrieved: 4
+18:41:23.553 [http-nio-9006-exec-8] WARN  o.h.e.jdbc.spi.SqlExceptionHelper - SQL Warning Code: 0, SQLState: 01000
+18:41:23.554 [http-nio-9006-exec-8] WARN  o.h.e.jdbc.spi.SqlExceptionHelper - database "umsdocumentdb" has a collation version mismatch
+18:45:52.194 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+18:50:52.195 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+18:55:52.206 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+19:00:52.220 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration

@@ -1,0 +1,832 @@
+12:52:22.605 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=14h21m57s71ms376µs400ns).
+12:52:57.930 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+12:57:57.941 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+13:02:57.951 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+13:07:57.966 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+13:12:59.172 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+13:17:59.175 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+13:22:59.187 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+13:27:59.202 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+14:10:19.487 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=39m23s153ms203µs400ns).
+14:11:54.323 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+14:16:54.331 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+14:21:54.338 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+14:26:54.342 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+14:31:54.352 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+14:36:54.354 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+14:37:58.308 [http-nio-9006-exec-2] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getAllInternalNotes(): Fetching all internal notes...
+14:37:58.575 [http-nio-9006-exec-2] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() entered
+14:37:58.765 [http-nio-9006-exec-2] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() executed successfully.
+14:37:58.765 [http-nio-9006-exec-2] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() entered
+14:37:58.915 [http-nio-9006-exec-2] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() executed successfully.
+14:37:58.916 [http-nio-9006-exec-2] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() entered
+14:37:58.942 [http-nio-9006-exec-2] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() executed successfully.
+14:37:58.942 [http-nio-9006-exec-2] INFO  c.i.u.s.InternalNotesServiceImpl - Total internal notes retrieved: 4
+14:37:59.209 [http-nio-9006-exec-2] WARN  o.h.e.jdbc.spi.SqlExceptionHelper - SQL Warning Code: 0, SQLState: 01000
+14:37:59.209 [http-nio-9006-exec-2] WARN  o.h.e.jdbc.spi.SqlExceptionHelper - database "umsdocumentdb" has a collation version mismatch
+14:41:54.367 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+14:44:14.568 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getAllInternalNotes(): Fetching all internal notes...
+14:44:14.590 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() entered
+14:44:14.626 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() executed successfully.
+14:44:14.626 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() entered
+14:44:14.855 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() executed successfully.
+14:44:14.855 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() entered
+14:44:14.888 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() executed successfully.
+14:44:14.888 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - Total internal notes retrieved: 4
+14:44:15.108 [http-nio-9006-exec-6] WARN  o.h.e.jdbc.spi.SqlExceptionHelper - SQL Warning Code: 0, SQLState: 01000
+14:44:15.109 [http-nio-9006-exec-6] WARN  o.h.e.jdbc.spi.SqlExceptionHelper - database "umsdocumentdb" has a collation version mismatch
+14:45:28.654 [http-nio-9006-exec-10] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getAllInternalNotes(): Fetching all internal notes...
+14:45:28.660 [http-nio-9006-exec-10] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() entered
+14:45:28.676 [http-nio-9006-exec-10] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() executed successfully.
+14:45:28.676 [http-nio-9006-exec-10] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() entered
+14:45:28.784 [http-nio-9006-exec-10] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() executed successfully.
+14:45:28.784 [http-nio-9006-exec-10] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() entered
+14:45:28.803 [http-nio-9006-exec-10] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() executed successfully.
+14:45:28.803 [http-nio-9006-exec-10] INFO  c.i.u.s.InternalNotesServiceImpl - Total internal notes retrieved: 4
+14:46:18.760 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getInternalNotesById(): Fetching internal note with ID: 1
+14:46:18.799 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - Internal note retrieved successfully with ID: 1
+14:46:28.271 [http-nio-9006-exec-4] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, updateInternalNotes(): Updating internal note with ID: 1
+14:46:28.344 [http-nio-9006-exec-4] INFO  c.i.u.s.InternalNotesServiceImpl - Internal note updated successfully with ID: 1
+14:46:30.745 [http-nio-9006-exec-5] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getAllInternalNotes(): Fetching all internal notes...
+14:46:30.754 [http-nio-9006-exec-5] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() entered
+14:46:30.765 [http-nio-9006-exec-5] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() executed successfully.
+14:46:30.766 [http-nio-9006-exec-5] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() entered
+14:46:30.934 [http-nio-9006-exec-5] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() executed successfully.
+14:46:30.935 [http-nio-9006-exec-5] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() entered
+14:46:30.954 [http-nio-9006-exec-5] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() executed successfully.
+14:46:30.956 [http-nio-9006-exec-5] INFO  c.i.u.s.InternalNotesServiceImpl - Total internal notes retrieved: 4
+14:46:48.941 [http-nio-9006-exec-8] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getInternalNotesById(): Fetching internal note with ID: 1
+14:46:48.943 [http-nio-9006-exec-8] INFO  c.i.u.s.InternalNotesServiceImpl - Internal note retrieved successfully with ID: 1
+14:46:54.383 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+14:47:04.747 [http-nio-9006-exec-9] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, updateInternalNotes(): Updating internal note with ID: 1
+14:47:04.791 [http-nio-9006-exec-9] INFO  c.i.u.s.InternalNotesServiceImpl - Internal note updated successfully with ID: 1
+14:47:07.093 [http-nio-9006-exec-2] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getAllInternalNotes(): Fetching all internal notes...
+14:47:07.120 [http-nio-9006-exec-2] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() entered
+14:47:07.128 [http-nio-9006-exec-2] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() executed successfully.
+14:47:07.128 [http-nio-9006-exec-2] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() entered
+14:47:07.233 [http-nio-9006-exec-2] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() executed successfully.
+14:47:07.233 [http-nio-9006-exec-2] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() entered
+14:47:07.251 [http-nio-9006-exec-2] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() executed successfully.
+14:47:07.251 [http-nio-9006-exec-2] INFO  c.i.u.s.InternalNotesServiceImpl - Total internal notes retrieved: 4
+14:51:14.771 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, saveInternalNotes(): Initializing internal note save process...
+14:51:14.876 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - Internal note saved successfully with ID: 6
+14:51:16.951 [http-nio-9006-exec-7] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getAllInternalNotes(): Fetching all internal notes...
+14:51:16.963 [http-nio-9006-exec-7] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() entered
+14:51:16.981 [http-nio-9006-exec-7] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() executed successfully.
+14:51:16.981 [http-nio-9006-exec-7] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() entered
+14:51:17.199 [http-nio-9006-exec-7] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() executed successfully.
+14:51:17.199 [http-nio-9006-exec-7] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() entered
+14:51:17.214 [http-nio-9006-exec-7] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() executed successfully.
+14:51:17.214 [http-nio-9006-exec-7] INFO  c.i.u.s.InternalNotesServiceImpl - Total internal notes retrieved: 5
+14:51:54.386 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+14:52:36.581 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, saveInternalNotes(): Initializing internal note save process...
+14:52:36.628 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - Internal note saved successfully with ID: 7
+14:52:39.293 [http-nio-9006-exec-4] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getAllInternalNotes(): Fetching all internal notes...
+14:52:39.327 [http-nio-9006-exec-4] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() entered
+14:52:39.350 [http-nio-9006-exec-4] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() executed successfully.
+14:52:39.350 [http-nio-9006-exec-4] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() entered
+14:52:39.655 [http-nio-9006-exec-4] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() executed successfully.
+14:52:39.655 [http-nio-9006-exec-4] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() entered
+14:52:39.685 [http-nio-9006-exec-4] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() executed successfully.
+14:52:39.685 [http-nio-9006-exec-4] INFO  c.i.u.s.InternalNotesServiceImpl - Total internal notes retrieved: 6
+14:52:49.328 [http-nio-9006-exec-5] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getInternalNotesById(): Fetching internal note with ID: 7
+14:52:49.330 [http-nio-9006-exec-5] INFO  c.i.u.s.InternalNotesServiceImpl - Internal note retrieved successfully with ID: 7
+14:52:57.532 [http-nio-9006-exec-8] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, updateInternalNotes(): Updating internal note with ID: 7
+14:52:57.563 [http-nio-9006-exec-8] INFO  c.i.u.s.InternalNotesServiceImpl - Internal note updated successfully with ID: 7
+14:52:59.611 [http-nio-9006-exec-9] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getAllInternalNotes(): Fetching all internal notes...
+14:52:59.616 [http-nio-9006-exec-9] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() entered
+14:52:59.627 [http-nio-9006-exec-9] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() executed successfully.
+14:52:59.628 [http-nio-9006-exec-9] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() entered
+14:52:59.715 [http-nio-9006-exec-9] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() executed successfully.
+14:52:59.715 [http-nio-9006-exec-9] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() entered
+14:52:59.733 [http-nio-9006-exec-9] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() executed successfully.
+14:52:59.733 [http-nio-9006-exec-9] INFO  c.i.u.s.InternalNotesServiceImpl - Total internal notes retrieved: 6
+14:53:39.245 [http-nio-9006-exec-2] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getInternalNotesById(): Fetching internal note with ID: 7
+14:53:39.250 [http-nio-9006-exec-2] INFO  c.i.u.s.InternalNotesServiceImpl - Internal note retrieved successfully with ID: 7
+14:56:54.392 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+15:00:57.023 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getAllInternalNotes(): Fetching all internal notes...
+15:00:57.028 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() entered
+15:00:57.037 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() executed successfully.
+15:00:57.037 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() entered
+15:00:57.117 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() executed successfully.
+15:00:57.117 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() entered
+15:00:57.131 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() executed successfully.
+15:00:57.131 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - Total internal notes retrieved: 6
+15:01:54.398 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+15:02:10.803 [http-nio-9006-exec-10] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getAllInternalNotes(): Fetching all internal notes...
+15:02:10.812 [http-nio-9006-exec-10] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() entered
+15:02:10.819 [http-nio-9006-exec-10] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() executed successfully.
+15:02:10.820 [http-nio-9006-exec-10] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() entered
+15:02:10.901 [http-nio-9006-exec-10] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() executed successfully.
+15:02:10.901 [http-nio-9006-exec-10] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() entered
+15:02:10.917 [http-nio-9006-exec-10] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() executed successfully.
+15:02:10.917 [http-nio-9006-exec-10] INFO  c.i.u.s.InternalNotesServiceImpl - Total internal notes retrieved: 6
+15:02:47.095 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getAllInternalNotes(): Fetching all internal notes...
+15:02:47.103 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() entered
+15:02:47.112 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() executed successfully.
+15:02:47.112 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() entered
+15:02:47.221 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() executed successfully.
+15:02:47.221 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() entered
+15:02:47.236 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() executed successfully.
+15:02:47.236 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - Total internal notes retrieved: 6
+15:05:24.087 [RMI TCP Connection(195)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+15:05:24.089 [RMI TCP Connection(195)-127.0.0.1] INFO  o.s.c.n.e.s.EurekaServiceRegistry - Unregistering application UMS-DOCUMENT-SERVICE with eureka with status DOWN
+15:05:24.089 [RMI TCP Connection(195)-127.0.0.1] INFO  c.netflix.discovery.DiscoveryClient - Saw local status change event StatusChangeEvent [timestamp=1746956124089, current=DOWN, previous=UP]
+15:05:24.090 [DiscoveryClient-InstanceInfoReplicator-0] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_UMS-DOCUMENT-SERVICE/192.168.1.23:UMS-DOCUMENT-SERVICE:9006: registering service...
+15:05:24.098 [RMI TCP Connection(195)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-9006"]
+15:05:24.098 [RMI TCP Connection(195)-127.0.0.1] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+15:05:24.100 [RMI TCP Connection(195)-127.0.0.1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+15:05:24.103 [RMI TCP Connection(195)-127.0.0.1] WARN  o.a.c.loader.WebappClassLoaderBase - The web application [ROOT] appears to have started a thread named [boundedElastic-evictor-1] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
+ java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1758)
+ java.base/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1182)
+ java.base/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1070)
+ java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+ java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+ java.base/java.lang.Thread.run(Thread.java:1583)
+15:05:24.103 [RMI TCP Connection(195)-127.0.0.1] WARN  o.a.c.loader.WebappClassLoaderBase - The web application [ROOT] appears to have started a thread named [pool-10-thread-1] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base/java.util.concurrent.locks.LockSupport.park(LockSupport.java:371)
+ java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:519)
+ java.base/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:3780)
+ java.base/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3725)
+ java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1707)
+ java.base/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1170)
+ java.base/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1070)
+ java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+ java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+ java.base/java.lang.Thread.run(Thread.java:1583)
+15:05:24.103 [RMI TCP Connection(195)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-9006"]
+15:05:24.104 [RMI TCP Connection(195)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol - Destroying ProtocolHandler ["http-nio-9006"]
+15:05:24.107 [DiscoveryClient-InstanceInfoReplicator-0] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_UMS-DOCUMENT-SERVICE/192.168.1.23:UMS-DOCUMENT-SERVICE:9006 - registration status: 204
+15:05:24.110 [RMI TCP Connection(195)-127.0.0.1] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+15:05:24.113 [RMI TCP Connection(195)-127.0.0.1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+15:05:24.117 [RMI TCP Connection(195)-127.0.0.1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+15:05:24.118 [RMI TCP Connection(195)-127.0.0.1] INFO  c.netflix.discovery.DiscoveryClient - Shutting down DiscoveryClient ...
+15:05:27.126 [RMI TCP Connection(195)-127.0.0.1] INFO  c.netflix.discovery.DiscoveryClient - Unregistering ...
+15:05:27.154 [RMI TCP Connection(195)-127.0.0.1] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_UMS-DOCUMENT-SERVICE/192.168.1.23:UMS-DOCUMENT-SERVICE:9006 - deregister  status: 200
+15:05:27.158 [RMI TCP Connection(195)-127.0.0.1] INFO  c.netflix.discovery.DiscoveryClient - Completed shut down of DiscoveryClient
+15:05:32.259 [restartedMain] INFO  o.s.b.d.restart.ChangeableUrls - The Class-Path manifest attribute in C:\Users\JyothsnaNakkala\.m2\repository\com\oracle\database\jdbc\ojdbc8\21.5.0.0\ojdbc8-21.5.0.0.jar referenced one or more files that do not exist: file:/C:/Users/JyothsnaNakkala/.m2/repository/com/oracle/database/jdbc/ojdbc8/21.5.0.0/oraclepki.jar
+15:05:32.260 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+15:05:32.582 [restartedMain] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at : http://localhost:9296
+15:05:33.754 [restartedMain] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=UMS-DOCUMENT-SERVICE, profiles=[default], label=null, version=53cb0bce99fff205450561aa0fd99fb5e9d41b91, state=null
+15:05:33.755 [restartedMain] INFO  o.s.c.b.c.PropertySourceBootstrapConfiguration - Located property source: [BootstrapPropertySource {name='bootstrapProperties-configClient'}, BootstrapPropertySource {name='bootstrapProperties-https://github.com/IKCONDev/ums-config-server/application.yaml'}]
+15:05:33.763 [restartedMain] INFO  c.i.u.UmsDocumentServiceApplication - No active profile set, falling back to 1 default profile: "default"
+15:05:34.652 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+15:05:34.787 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 126 ms. Found 1 JPA repository interfaces.
+15:05:35.029 [restartedMain] INFO  o.s.cloud.context.scope.GenericScope - BeanFactory id=50282dec-c390-3afd-a20e-8c68038d810b
+15:05:35.565 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9006 (http)
+15:05:35.573 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9006"]
+15:05:35.574 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+15:05:35.575 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.78]
+15:05:35.747 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+15:05:35.747 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1970 ms
+15:05:35.861 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+15:05:36.129 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+15:05:36.140 [restartedMain] INFO  o.s.b.a.h.H2ConsoleAutoConfiguration - H2 console available at '/h2-console'. Database available at 'jdbc:postgresql://localhost:5432/umsdocumentdb'
+15:05:36.332 [restartedMain] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+15:05:36.411 [restartedMain] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.15.Final
+15:05:36.623 [restartedMain] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+15:05:36.769 [restartedMain] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+15:05:37.536 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+15:05:37.545 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+15:05:37.908 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+15:05:38.471 [restartedMain] WARN  o.s.b.d.a.OptionalLiveReloadServer - Unable to start LiveReload server
+15:05:38.497 [restartedMain] INFO  o.s.c.n.e.c.DiscoveryClientOptionalArgsConfiguration - Eureka HTTP Client uses RestTemplate.
+15:05:38.553 [restartedMain] WARN  o.s.c.l.c.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger - Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+15:05:38.561 [restartedMain] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+15:05:38.633 [restartedMain] INFO  o.s.c.n.eureka.InstanceInfoFactory - Setting initial instance status as: STARTING
+15:05:38.665 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Initializing Eureka in region us-east-1
+15:05:38.669 [restartedMain] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+15:05:38.692 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Disable delta property : false
+15:05:38.693 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Single vip registry refresh property : null
+15:05:38.693 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Force full registry fetch : false
+15:05:38.693 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Application is null : false
+15:05:38.693 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Registered Applications size is zero : true
+15:05:38.693 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Application version is -1: true
+15:05:38.693 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Getting all instance registry info from the eureka server
+15:05:38.930 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - The response status is 200
+15:05:38.932 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Starting heartbeat executor: renew interval is: 30
+15:05:38.935 [restartedMain] INFO  c.n.discovery.InstanceInfoReplicator - InstanceInfoReplicator onDemand update allowed rate per min is 4
+15:05:38.940 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Discovery Client initialized at timestamp 1746956138940 with initial instances count: 10
+15:05:38.943 [restartedMain] INFO  o.s.c.n.e.s.EurekaServiceRegistry - Registering application UMS-DOCUMENT-SERVICE with eureka with status UP
+15:05:38.943 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Saw local status change event StatusChangeEvent [timestamp=1746956138943, current=UP, previous=STARTING]
+15:05:38.944 [DiscoveryClient-InstanceInfoReplicator-0] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_UMS-DOCUMENT-SERVICE/192.168.1.23:UMS-DOCUMENT-SERVICE:9006: registering service...
+15:05:38.945 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-9006"]
+15:05:38.981 [DiscoveryClient-InstanceInfoReplicator-0] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_UMS-DOCUMENT-SERVICE/192.168.1.23:UMS-DOCUMENT-SERVICE:9006 - registration status: 204
+15:05:38.983 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 9006 (http) with context path ''
+15:05:38.984 [restartedMain] INFO  o.s.c.n.e.s.EurekaAutoServiceRegistration - Updating port to 9006
+15:05:39.008 [restartedMain] INFO  c.i.u.UmsDocumentServiceApplication - Started UmsDocumentServiceApplication in 7.344 seconds (JVM running for 9.337)
+15:05:39.433 [RMI TCP Connection(9)-127.0.0.1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+15:05:39.433 [RMI TCP Connection(9)-127.0.0.1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+15:05:39.435 [RMI TCP Connection(9)-127.0.0.1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+15:06:11.305 [http-nio-9006-exec-2] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getInternalNotesById(): Fetching internal note with ID: 6
+15:06:11.394 [http-nio-9006-exec-2] INFO  c.i.u.s.InternalNotesServiceImpl - Internal note retrieved successfully with ID: 6
+15:06:20.435 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getInternalNotesById(): Fetching internal note with ID: 6
+15:06:20.439 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - Internal note retrieved successfully with ID: 6
+15:10:38.711 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+15:15:38.718 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+15:15:46.506 [http-nio-9006-exec-3] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, updateInternalNotes(): Updating internal note with ID: 6
+15:20:38.727 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+15:21:08.829 [http-nio-9006-exec-3] INFO  c.i.u.s.InternalNotesServiceImpl - Internal note updated successfully with ID: 6
+15:21:44.271 [http-nio-9006-exec-4] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getAllInternalNotes(): Fetching all internal notes...
+15:21:44.597 [http-nio-9006-exec-4] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() entered
+15:21:44.782 [http-nio-9006-exec-4] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() executed successfully.
+15:21:44.782 [http-nio-9006-exec-4] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() entered
+15:21:45.022 [http-nio-9006-exec-4] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() executed successfully.
+15:21:45.023 [http-nio-9006-exec-4] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() entered
+15:21:45.057 [http-nio-9006-exec-4] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() executed successfully.
+15:21:45.058 [http-nio-9006-exec-4] INFO  c.i.u.s.InternalNotesServiceImpl - Total internal notes retrieved: 6
+15:25:38.732 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+15:30:38.737 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+15:35:38.741 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+15:39:15.631 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getAllInternalNotes(): Fetching all internal notes...
+15:39:15.649 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() entered
+15:39:15.667 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() executed successfully.
+15:39:15.667 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() entered
+15:39:15.827 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() executed successfully.
+15:39:15.827 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() entered
+15:39:15.852 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() executed successfully.
+15:39:15.852 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - Total internal notes retrieved: 6
+15:39:16.064 [http-nio-9006-exec-6] WARN  o.h.e.jdbc.spi.SqlExceptionHelper - SQL Warning Code: 0, SQLState: 01000
+15:39:16.064 [http-nio-9006-exec-6] WARN  o.h.e.jdbc.spi.SqlExceptionHelper - database "umsdocumentdb" has a collation version mismatch
+15:39:32.660 [http-nio-9006-exec-7] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getAllInternalNotes(): Fetching all internal notes...
+15:39:32.669 [http-nio-9006-exec-7] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() entered
+15:39:32.682 [http-nio-9006-exec-7] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() executed successfully.
+15:39:32.682 [http-nio-9006-exec-7] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() entered
+15:39:32.760 [http-nio-9006-exec-7] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() executed successfully.
+15:39:32.760 [http-nio-9006-exec-7] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() entered
+15:39:32.776 [http-nio-9006-exec-7] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() executed successfully.
+15:39:32.778 [http-nio-9006-exec-7] INFO  c.i.u.s.InternalNotesServiceImpl - Total internal notes retrieved: 6
+15:40:38.745 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+15:45:38.748 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+15:46:07.950 [http-nio-9006-exec-9] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getAllInternalNotes(): Fetching all internal notes...
+15:46:07.961 [http-nio-9006-exec-9] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() entered
+15:46:07.976 [http-nio-9006-exec-9] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() executed successfully.
+15:46:07.977 [http-nio-9006-exec-9] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() entered
+15:46:08.309 [http-nio-9006-exec-9] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() executed successfully.
+15:46:08.309 [http-nio-9006-exec-9] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() entered
+15:46:08.327 [http-nio-9006-exec-9] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() executed successfully.
+15:46:08.327 [http-nio-9006-exec-9] INFO  c.i.u.s.InternalNotesServiceImpl - Total internal notes retrieved: 6
+15:46:29.209 [http-nio-9006-exec-10] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getAllInternalNotes(): Fetching all internal notes...
+15:46:29.216 [http-nio-9006-exec-10] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() entered
+15:46:29.223 [http-nio-9006-exec-10] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() executed successfully.
+15:46:29.223 [http-nio-9006-exec-10] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() entered
+15:46:29.300 [http-nio-9006-exec-10] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() executed successfully.
+15:46:29.300 [http-nio-9006-exec-10] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() entered
+15:46:29.315 [http-nio-9006-exec-10] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() executed successfully.
+15:46:29.315 [http-nio-9006-exec-10] INFO  c.i.u.s.InternalNotesServiceImpl - Total internal notes retrieved: 6
+15:46:37.641 [http-nio-9006-exec-2] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getAllInternalNotes(): Fetching all internal notes...
+15:46:37.657 [http-nio-9006-exec-2] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() entered
+15:46:37.665 [http-nio-9006-exec-2] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() executed successfully.
+15:46:37.665 [http-nio-9006-exec-2] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() entered
+15:46:37.767 [http-nio-9006-exec-2] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() executed successfully.
+15:46:37.767 [http-nio-9006-exec-2] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() entered
+15:46:37.791 [http-nio-9006-exec-2] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() executed successfully.
+15:46:37.791 [http-nio-9006-exec-2] INFO  c.i.u.s.InternalNotesServiceImpl - Total internal notes retrieved: 6
+15:46:44.334 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getAllInternalNotes(): Fetching all internal notes...
+15:46:44.344 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() entered
+15:46:44.351 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() executed successfully.
+15:46:44.351 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() entered
+15:46:44.417 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() executed successfully.
+15:46:44.417 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() entered
+15:46:44.431 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() executed successfully.
+15:46:44.431 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - Total internal notes retrieved: 6
+15:47:27.871 [http-nio-9006-exec-3] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, saveInternalNotes(): Initializing internal note save process...
+15:47:27.927 [http-nio-9006-exec-3] INFO  c.i.u.s.InternalNotesServiceImpl - Internal note saved successfully with ID: 8
+15:47:30.233 [http-nio-9006-exec-4] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getAllInternalNotes(): Fetching all internal notes...
+15:47:30.270 [http-nio-9006-exec-4] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() entered
+15:47:30.288 [http-nio-9006-exec-4] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() executed successfully.
+15:47:30.288 [http-nio-9006-exec-4] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() entered
+15:47:30.399 [http-nio-9006-exec-4] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() executed successfully.
+15:47:30.399 [http-nio-9006-exec-4] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() entered
+15:47:30.434 [http-nio-9006-exec-4] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() executed successfully.
+15:47:30.434 [http-nio-9006-exec-4] INFO  c.i.u.s.InternalNotesServiceImpl - Total internal notes retrieved: 7
+15:47:46.260 [http-nio-9006-exec-5] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getInternalNotesById(): Fetching internal note with ID: 8
+15:47:46.263 [http-nio-9006-exec-5] INFO  c.i.u.s.InternalNotesServiceImpl - Internal note retrieved successfully with ID: 8
+15:48:49.946 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, updateInternalNotes(): Updating internal note with ID: 8
+15:48:50.986 [http-nio-9006-exec-7] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, updateInternalNotes(): Updating internal note with ID: 8
+15:48:52.013 [http-nio-9006-exec-8] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, updateInternalNotes(): Updating internal note with ID: 8
+15:48:53.977 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - Internal note updated successfully with ID: 8
+15:48:56.917 [http-nio-9006-exec-7] INFO  c.i.u.s.InternalNotesServiceImpl - Internal note updated successfully with ID: 8
+15:48:57.875 [http-nio-9006-exec-7] ERROR c.i.u.e.GlobalExceptionHandler - GlobalExceptionHandler.handleGeneralException() ENTERED: java.io.IOException: An established connection was aborted by the software in your host machine
+15:48:57.884 [http-nio-9006-exec-7] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Failure in @ExceptionHandler com.ikn.ums.exception.GlobalExceptionHandler#handleGeneralException(Exception)
+org.apache.catalina.connector.ClientAbortException: java.io.IOException: An established connection was aborted by the software in your host machine
+	at org.apache.catalina.connector.OutputBuffer.realWriteBytes(OutputBuffer.java:351)
+	at org.apache.catalina.connector.OutputBuffer.flushByteBuffer(OutputBuffer.java:784)
+	at org.apache.catalina.connector.OutputBuffer.append(OutputBuffer.java:687)
+	at org.apache.catalina.connector.OutputBuffer.writeBytes(OutputBuffer.java:386)
+	at org.apache.catalina.connector.OutputBuffer.write(OutputBuffer.java:364)
+	at org.apache.catalina.connector.CoyoteOutputStream.write(CoyoteOutputStream.java:97)
+	at org.springframework.util.StreamUtils$NonClosingOutputStream.write(StreamUtils.java:287)
+	at com.fasterxml.jackson.core.json.UTF8JsonGenerator._flushBuffer(UTF8JsonGenerator.java:2171)
+	at com.fasterxml.jackson.core.json.UTF8JsonGenerator.flush(UTF8JsonGenerator.java:1184)
+	at com.fasterxml.jackson.databind.ObjectWriter.writeValue(ObjectWriter.java:1009)
+	at org.springframework.http.converter.json.AbstractJackson2HttpMessageConverter.writeInternal(AbstractJackson2HttpMessageConverter.java:456)
+	at org.springframework.http.converter.AbstractGenericHttpMessageConverter.write(AbstractGenericHttpMessageConverter.java:104)
+	at org.springframework.web.servlet.mvc.method.annotation.AbstractMessageConverterMethodProcessor.writeWithMessageConverters(AbstractMessageConverterMethodProcessor.java:290)
+	at org.springframework.web.servlet.mvc.method.annotation.HttpEntityMethodProcessor.handleReturnValue(HttpEntityMethodProcessor.java:219)
+	at org.springframework.web.method.support.HandlerMethodReturnValueHandlerComposite.handleReturnValue(HandlerMethodReturnValueHandlerComposite.java:78)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:135)
+	at org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver.doResolveHandlerMethodException(ExceptionHandlerExceptionResolver.java:428)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodExceptionResolver.doResolveException(AbstractHandlerMethodExceptionResolver.java:75)
+	at org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver.resolveException(AbstractHandlerExceptionResolver.java:142)
+	at org.springframework.web.servlet.handler.HandlerExceptionResolverComposite.resolveException(HandlerExceptionResolverComposite.java:80)
+	at org.springframework.web.servlet.DispatcherServlet.processHandlerException(DispatcherServlet.java:1332)
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1143)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:965)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPut(FrameworkServlet.java:920)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:558)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:623)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:209)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153)
+	at org.springframework.boot.actuate.metrics.web.servlet.WebMvcMetricsFilter.doFilterInternal(WebMvcMetricsFilter.java:96)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:481)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:390)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:926)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1791)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.io.IOException: An established connection was aborted by the software in your host machine
+	at java.base/sun.nio.ch.SocketDispatcher.write0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.write(SocketDispatcher.java:54)
+	at java.base/sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:137)
+	at java.base/sun.nio.ch.IOUtil.write(IOUtil.java:102)
+	at java.base/sun.nio.ch.IOUtil.write(IOUtil.java:58)
+	at java.base/sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:542)
+	at org.apache.tomcat.util.net.NioChannel.write(NioChannel.java:136)
+	at org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper.doWrite(NioEndpoint.java:1431)
+	at org.apache.tomcat.util.net.SocketWrapperBase.doWrite(SocketWrapperBase.java:775)
+	at org.apache.tomcat.util.net.SocketWrapperBase.writeBlocking(SocketWrapperBase.java:600)
+	at org.apache.tomcat.util.net.SocketWrapperBase.write(SocketWrapperBase.java:544)
+	at org.apache.coyote.http11.Http11OutputBuffer$SocketOutputBuffer.doWrite(Http11OutputBuffer.java:540)
+	at org.apache.coyote.http11.filters.ChunkedOutputFilter.doWrite(ChunkedOutputFilter.java:110)
+	at org.apache.coyote.http11.Http11OutputBuffer.doWrite(Http11OutputBuffer.java:193)
+	at org.apache.coyote.Response.doWrite(Response.java:603)
+	at org.apache.catalina.connector.OutputBuffer.realWriteBytes(OutputBuffer.java:338)
+	... 65 common frames omitted
+15:48:57.885 [http-nio-9006-exec-7] WARN  o.h.e.jdbc.spi.SqlExceptionHelper - SQL Warning Code: 0, SQLState: 01000
+15:48:57.886 [http-nio-9006-exec-7] WARN  o.h.e.jdbc.spi.SqlExceptionHelper - database "umsdocumentdb" has a collation version mismatch
+15:48:57.969 [http-nio-9006-exec-9] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getAllInternalNotes(): Fetching all internal notes...
+15:48:57.974 [http-nio-9006-exec-9] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() entered
+15:48:57.982 [http-nio-9006-exec-9] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() executed successfully.
+15:48:57.982 [http-nio-9006-exec-9] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() entered
+15:48:58.084 [http-nio-9006-exec-9] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() executed successfully.
+15:48:58.084 [http-nio-9006-exec-9] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() entered
+15:48:58.104 [http-nio-9006-exec-9] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() executed successfully.
+15:48:58.104 [http-nio-9006-exec-9] INFO  c.i.u.s.InternalNotesServiceImpl - Total internal notes retrieved: 7
+15:48:59.609 [http-nio-9006-exec-8] INFO  c.i.u.s.InternalNotesServiceImpl - Internal note updated successfully with ID: 8
+15:49:00.453 [http-nio-9006-exec-8] ERROR c.i.u.e.GlobalExceptionHandler - GlobalExceptionHandler.handleGeneralException() ENTERED: java.io.IOException: An established connection was aborted by the software in your host machine
+15:49:00.454 [http-nio-9006-exec-8] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Failure in @ExceptionHandler com.ikn.ums.exception.GlobalExceptionHandler#handleGeneralException(Exception)
+org.apache.catalina.connector.ClientAbortException: java.io.IOException: An established connection was aborted by the software in your host machine
+	at org.apache.catalina.connector.OutputBuffer.realWriteBytes(OutputBuffer.java:351)
+	at org.apache.catalina.connector.OutputBuffer.flushByteBuffer(OutputBuffer.java:784)
+	at org.apache.catalina.connector.OutputBuffer.append(OutputBuffer.java:687)
+	at org.apache.catalina.connector.OutputBuffer.writeBytes(OutputBuffer.java:386)
+	at org.apache.catalina.connector.OutputBuffer.write(OutputBuffer.java:364)
+	at org.apache.catalina.connector.CoyoteOutputStream.write(CoyoteOutputStream.java:97)
+	at org.springframework.util.StreamUtils$NonClosingOutputStream.write(StreamUtils.java:287)
+	at com.fasterxml.jackson.core.json.UTF8JsonGenerator._flushBuffer(UTF8JsonGenerator.java:2171)
+	at com.fasterxml.jackson.core.json.UTF8JsonGenerator.flush(UTF8JsonGenerator.java:1184)
+	at com.fasterxml.jackson.databind.ObjectWriter.writeValue(ObjectWriter.java:1009)
+	at org.springframework.http.converter.json.AbstractJackson2HttpMessageConverter.writeInternal(AbstractJackson2HttpMessageConverter.java:456)
+	at org.springframework.http.converter.AbstractGenericHttpMessageConverter.write(AbstractGenericHttpMessageConverter.java:104)
+	at org.springframework.web.servlet.mvc.method.annotation.AbstractMessageConverterMethodProcessor.writeWithMessageConverters(AbstractMessageConverterMethodProcessor.java:290)
+	at org.springframework.web.servlet.mvc.method.annotation.HttpEntityMethodProcessor.handleReturnValue(HttpEntityMethodProcessor.java:219)
+	at org.springframework.web.method.support.HandlerMethodReturnValueHandlerComposite.handleReturnValue(HandlerMethodReturnValueHandlerComposite.java:78)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:135)
+	at org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver.doResolveHandlerMethodException(ExceptionHandlerExceptionResolver.java:428)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodExceptionResolver.doResolveException(AbstractHandlerMethodExceptionResolver.java:75)
+	at org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver.resolveException(AbstractHandlerExceptionResolver.java:142)
+	at org.springframework.web.servlet.handler.HandlerExceptionResolverComposite.resolveException(HandlerExceptionResolverComposite.java:80)
+	at org.springframework.web.servlet.DispatcherServlet.processHandlerException(DispatcherServlet.java:1332)
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1143)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:965)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPut(FrameworkServlet.java:920)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:558)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:623)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:209)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153)
+	at org.springframework.boot.actuate.metrics.web.servlet.WebMvcMetricsFilter.doFilterInternal(WebMvcMetricsFilter.java:96)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:481)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:390)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:926)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1791)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.io.IOException: An established connection was aborted by the software in your host machine
+	at java.base/sun.nio.ch.SocketDispatcher.write0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.write(SocketDispatcher.java:54)
+	at java.base/sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:137)
+	at java.base/sun.nio.ch.IOUtil.write(IOUtil.java:102)
+	at java.base/sun.nio.ch.IOUtil.write(IOUtil.java:58)
+	at java.base/sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:542)
+	at org.apache.tomcat.util.net.NioChannel.write(NioChannel.java:136)
+	at org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper.doWrite(NioEndpoint.java:1431)
+	at org.apache.tomcat.util.net.SocketWrapperBase.doWrite(SocketWrapperBase.java:775)
+	at org.apache.tomcat.util.net.SocketWrapperBase.writeBlocking(SocketWrapperBase.java:600)
+	at org.apache.tomcat.util.net.SocketWrapperBase.write(SocketWrapperBase.java:544)
+	at org.apache.coyote.http11.Http11OutputBuffer$SocketOutputBuffer.doWrite(Http11OutputBuffer.java:540)
+	at org.apache.coyote.http11.filters.ChunkedOutputFilter.doWrite(ChunkedOutputFilter.java:110)
+	at org.apache.coyote.http11.Http11OutputBuffer.doWrite(Http11OutputBuffer.java:193)
+	at org.apache.coyote.Response.doWrite(Response.java:603)
+	at org.apache.catalina.connector.OutputBuffer.realWriteBytes(OutputBuffer.java:338)
+	... 65 common frames omitted
+15:49:00.455 [http-nio-9006-exec-8] WARN  o.h.e.jdbc.spi.SqlExceptionHelper - SQL Warning Code: 0, SQLState: 01000
+15:49:00.455 [http-nio-9006-exec-8] WARN  o.h.e.jdbc.spi.SqlExceptionHelper - database "umsdocumentdb" has a collation version mismatch
+15:49:09.384 [RMI TCP Connection(57)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+15:49:09.385 [RMI TCP Connection(57)-127.0.0.1] INFO  o.s.c.n.e.s.EurekaServiceRegistry - Unregistering application UMS-DOCUMENT-SERVICE with eureka with status DOWN
+15:49:09.385 [RMI TCP Connection(57)-127.0.0.1] INFO  c.netflix.discovery.DiscoveryClient - Saw local status change event StatusChangeEvent [timestamp=1746958749385, current=DOWN, previous=UP]
+15:49:09.385 [DiscoveryClient-InstanceInfoReplicator-0] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_UMS-DOCUMENT-SERVICE/192.168.1.23:UMS-DOCUMENT-SERVICE:9006: registering service...
+15:49:09.393 [RMI TCP Connection(57)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-9006"]
+15:49:09.393 [RMI TCP Connection(57)-127.0.0.1] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+15:49:09.395 [RMI TCP Connection(57)-127.0.0.1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+15:49:09.398 [RMI TCP Connection(57)-127.0.0.1] WARN  o.a.c.loader.WebappClassLoaderBase - The web application [ROOT] appears to have started a thread named [boundedElastic-evictor-1] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
+ java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1758)
+ java.base/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1182)
+ java.base/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1070)
+ java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+ java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+ java.base/java.lang.Thread.run(Thread.java:1583)
+15:49:09.398 [RMI TCP Connection(57)-127.0.0.1] WARN  o.a.c.loader.WebappClassLoaderBase - The web application [ROOT] appears to have started a thread named [pool-10-thread-1] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
+ java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1758)
+ java.base/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1182)
+ java.base/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1070)
+ java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+ java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+ java.base/java.lang.Thread.run(Thread.java:1583)
+15:49:09.398 [RMI TCP Connection(57)-127.0.0.1] WARN  o.a.c.loader.WebappClassLoaderBase - The web application [ROOT] appears to have started a thread named [boundedElastic-4] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base/java.util.concurrent.locks.LockSupport.park(LockSupport.java:371)
+ java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:519)
+ java.base/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:3780)
+ java.base/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3725)
+ java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1707)
+ java.base/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1170)
+ java.base/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1070)
+ java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+ java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+ java.base/java.lang.Thread.run(Thread.java:1583)
+15:49:09.399 [RMI TCP Connection(57)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-9006"]
+15:49:09.402 [RMI TCP Connection(57)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol - Destroying ProtocolHandler ["http-nio-9006"]
+15:49:09.407 [DiscoveryClient-InstanceInfoReplicator-0] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_UMS-DOCUMENT-SERVICE/192.168.1.23:UMS-DOCUMENT-SERVICE:9006 - registration status: 204
+15:49:09.409 [RMI TCP Connection(57)-127.0.0.1] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+15:49:09.414 [RMI TCP Connection(57)-127.0.0.1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+15:49:09.419 [RMI TCP Connection(57)-127.0.0.1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+15:49:09.420 [RMI TCP Connection(57)-127.0.0.1] INFO  c.netflix.discovery.DiscoveryClient - Shutting down DiscoveryClient ...
+15:49:12.427 [DiscoveryClient-1] WARN  c.n.discovery.TimedSupervisorTask - task supervisor shutting down, can't accept the task
+15:49:12.428 [RMI TCP Connection(57)-127.0.0.1] INFO  c.netflix.discovery.DiscoveryClient - Unregistering ...
+15:49:12.433 [RMI TCP Connection(57)-127.0.0.1] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_UMS-DOCUMENT-SERVICE/192.168.1.23:UMS-DOCUMENT-SERVICE:9006 - deregister  status: 200
+15:49:12.438 [RMI TCP Connection(57)-127.0.0.1] INFO  c.netflix.discovery.DiscoveryClient - Completed shut down of DiscoveryClient
+15:49:31.588 [restartedMain] INFO  o.s.b.d.restart.ChangeableUrls - The Class-Path manifest attribute in C:\Users\JyothsnaNakkala\.m2\repository\com\oracle\database\jdbc\ojdbc8\21.5.0.0\ojdbc8-21.5.0.0.jar referenced one or more files that do not exist: file:/C:/Users/JyothsnaNakkala/.m2/repository/com/oracle/database/jdbc/ojdbc8/21.5.0.0/oraclepki.jar
+15:49:31.589 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+15:49:31.904 [restartedMain] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at : http://localhost:9296
+15:49:33.016 [restartedMain] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=UMS-DOCUMENT-SERVICE, profiles=[default], label=null, version=53cb0bce99fff205450561aa0fd99fb5e9d41b91, state=null
+15:49:33.017 [restartedMain] INFO  o.s.c.b.c.PropertySourceBootstrapConfiguration - Located property source: [BootstrapPropertySource {name='bootstrapProperties-configClient'}, BootstrapPropertySource {name='bootstrapProperties-https://github.com/IKCONDev/ums-config-server/application.yaml'}]
+15:49:33.020 [restartedMain] INFO  c.i.u.UmsDocumentServiceApplication - No active profile set, falling back to 1 default profile: "default"
+15:49:33.666 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+15:49:33.774 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 101 ms. Found 1 JPA repository interfaces.
+15:49:33.961 [restartedMain] INFO  o.s.cloud.context.scope.GenericScope - BeanFactory id=50282dec-c390-3afd-a20e-8c68038d810b
+15:49:34.425 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9006 (http)
+15:49:34.431 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9006"]
+15:49:34.433 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+15:49:34.434 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.78]
+15:49:34.606 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+15:49:34.606 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1574 ms
+15:49:34.703 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+15:49:34.940 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+15:49:34.949 [restartedMain] INFO  o.s.b.a.h.H2ConsoleAutoConfiguration - H2 console available at '/h2-console'. Database available at 'jdbc:postgresql://localhost:5432/umsdocumentdb'
+15:49:35.100 [restartedMain] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+15:49:35.142 [restartedMain] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.15.Final
+15:49:35.287 [restartedMain] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+15:49:35.385 [restartedMain] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+15:49:35.916 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+15:49:35.925 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+15:49:36.240 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+15:49:36.740 [restartedMain] WARN  o.s.b.d.a.OptionalLiveReloadServer - Unable to start LiveReload server
+15:49:36.766 [restartedMain] INFO  o.s.c.n.e.c.DiscoveryClientOptionalArgsConfiguration - Eureka HTTP Client uses RestTemplate.
+15:49:36.814 [restartedMain] WARN  o.s.c.l.c.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger - Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+15:49:36.821 [restartedMain] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+15:49:36.876 [restartedMain] INFO  o.s.c.n.eureka.InstanceInfoFactory - Setting initial instance status as: STARTING
+15:49:36.901 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Initializing Eureka in region us-east-1
+15:49:36.904 [restartedMain] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+15:49:36.922 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Disable delta property : false
+15:49:36.922 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Single vip registry refresh property : null
+15:49:36.922 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Force full registry fetch : false
+15:49:36.922 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Application is null : false
+15:49:36.922 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Registered Applications size is zero : true
+15:49:36.922 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Application version is -1: true
+15:49:36.922 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Getting all instance registry info from the eureka server
+15:49:37.104 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - The response status is 200
+15:49:37.107 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Starting heartbeat executor: renew interval is: 30
+15:49:37.109 [restartedMain] INFO  c.n.discovery.InstanceInfoReplicator - InstanceInfoReplicator onDemand update allowed rate per min is 4
+15:49:37.114 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Discovery Client initialized at timestamp 1746958777113 with initial instances count: 10
+15:49:37.116 [restartedMain] INFO  o.s.c.n.e.s.EurekaServiceRegistry - Registering application UMS-DOCUMENT-SERVICE with eureka with status UP
+15:49:37.116 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Saw local status change event StatusChangeEvent [timestamp=1746958777116, current=UP, previous=STARTING]
+15:49:37.118 [DiscoveryClient-InstanceInfoReplicator-0] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_UMS-DOCUMENT-SERVICE/192.168.1.23:UMS-DOCUMENT-SERVICE:9006: registering service...
+15:49:37.118 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-9006"]
+15:49:37.141 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 9006 (http) with context path ''
+15:49:37.141 [restartedMain] INFO  o.s.c.n.e.s.EurekaAutoServiceRegistration - Updating port to 9006
+15:49:37.150 [DiscoveryClient-InstanceInfoReplicator-0] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_UMS-DOCUMENT-SERVICE/192.168.1.23:UMS-DOCUMENT-SERVICE:9006 - registration status: 204
+15:49:37.166 [restartedMain] INFO  c.i.u.UmsDocumentServiceApplication - Started UmsDocumentServiceApplication in 6.042 seconds (JVM running for 6.892)
+15:49:37.750 [RMI TCP Connection(9)-127.0.0.1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+15:49:37.750 [RMI TCP Connection(9)-127.0.0.1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+15:49:37.752 [RMI TCP Connection(9)-127.0.0.1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+15:53:12.796 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getAllInternalNotes(): Fetching all internal notes...
+15:53:13.058 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() entered
+15:53:13.249 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() executed successfully.
+15:53:13.249 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() entered
+15:53:13.480 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() executed successfully.
+15:53:13.480 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() entered
+15:53:13.514 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() executed successfully.
+15:53:13.514 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - Total internal notes retrieved: 7
+15:54:36.933 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+15:54:51.357 [http-nio-9006-exec-3] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getAllInternalNotes(): Fetching all internal notes...
+15:54:51.366 [http-nio-9006-exec-3] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() entered
+15:54:51.380 [http-nio-9006-exec-3] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() executed successfully.
+15:54:51.380 [http-nio-9006-exec-3] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() entered
+15:54:51.459 [http-nio-9006-exec-3] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() executed successfully.
+15:54:51.459 [http-nio-9006-exec-3] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() entered
+15:54:51.474 [http-nio-9006-exec-3] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() executed successfully.
+15:54:51.474 [http-nio-9006-exec-3] INFO  c.i.u.s.InternalNotesServiceImpl - Total internal notes retrieved: 7
+15:55:28.180 [http-nio-9006-exec-4] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, saveInternalNotes(): Initializing internal note save process...
+15:55:28.285 [http-nio-9006-exec-4] INFO  c.i.u.s.InternalNotesServiceImpl - Internal note saved successfully with ID: 9
+15:55:30.339 [http-nio-9006-exec-5] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getAllInternalNotes(): Fetching all internal notes...
+15:55:30.356 [http-nio-9006-exec-5] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() entered
+15:55:30.366 [http-nio-9006-exec-5] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() executed successfully.
+15:55:30.366 [http-nio-9006-exec-5] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() entered
+15:55:30.441 [http-nio-9006-exec-5] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() executed successfully.
+15:55:30.441 [http-nio-9006-exec-5] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() entered
+15:55:30.457 [http-nio-9006-exec-5] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() executed successfully.
+15:55:30.457 [http-nio-9006-exec-5] INFO  c.i.u.s.InternalNotesServiceImpl - Total internal notes retrieved: 8
+15:55:36.942 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getInternalNotesById(): Fetching internal note with ID: 9
+15:55:36.950 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - Internal note retrieved successfully with ID: 9
+15:55:39.694 [http-nio-9006-exec-7] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, updateInternalNotes(): Updating internal note with ID: 9
+15:55:39.734 [http-nio-9006-exec-7] INFO  c.i.u.s.InternalNotesServiceImpl - Internal note updated successfully with ID: 9
+15:55:41.762 [http-nio-9006-exec-8] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getAllInternalNotes(): Fetching all internal notes...
+15:55:41.774 [http-nio-9006-exec-8] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() entered
+15:55:41.782 [http-nio-9006-exec-8] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() executed successfully.
+15:55:41.782 [http-nio-9006-exec-8] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() entered
+15:55:41.847 [http-nio-9006-exec-8] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() executed successfully.
+15:55:41.847 [http-nio-9006-exec-8] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() entered
+15:55:41.862 [http-nio-9006-exec-8] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() executed successfully.
+15:55:41.863 [http-nio-9006-exec-8] INFO  c.i.u.s.InternalNotesServiceImpl - Total internal notes retrieved: 8
+15:58:24.423 [http-nio-9006-exec-9] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getAllInternalNotes(): Fetching all internal notes...
+15:58:24.430 [http-nio-9006-exec-9] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() entered
+15:58:24.440 [http-nio-9006-exec-9] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() executed successfully.
+15:58:24.440 [http-nio-9006-exec-9] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() entered
+15:58:24.517 [http-nio-9006-exec-9] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() executed successfully.
+15:58:24.517 [http-nio-9006-exec-9] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() entered
+15:58:24.534 [http-nio-9006-exec-9] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() executed successfully.
+15:58:24.535 [http-nio-9006-exec-9] INFO  c.i.u.s.InternalNotesServiceImpl - Total internal notes retrieved: 8
+15:58:42.413 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getAllInternalNotes(): Fetching all internal notes...
+15:58:42.420 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() entered
+15:58:42.429 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() executed successfully.
+15:58:42.430 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() entered
+15:58:42.574 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() executed successfully.
+15:58:42.574 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() entered
+15:58:42.592 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() executed successfully.
+15:58:42.592 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - Total internal notes retrieved: 8
+15:58:49.301 [http-nio-9006-exec-2] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getInternalNotesById(): Fetching internal note with ID: 9
+15:58:49.307 [http-nio-9006-exec-2] INFO  c.i.u.s.InternalNotesServiceImpl - Internal note retrieved successfully with ID: 9
+15:58:51.134 [http-nio-9006-exec-3] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, updateInternalNotes(): Updating internal note with ID: 9
+15:58:51.189 [http-nio-9006-exec-3] INFO  c.i.u.s.InternalNotesServiceImpl - Internal note updated successfully with ID: 9
+15:58:53.317 [http-nio-9006-exec-4] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getAllInternalNotes(): Fetching all internal notes...
+15:58:53.328 [http-nio-9006-exec-4] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() entered
+15:58:53.338 [http-nio-9006-exec-4] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() executed successfully.
+15:58:53.338 [http-nio-9006-exec-4] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() entered
+15:58:53.470 [http-nio-9006-exec-4] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() executed successfully.
+15:58:53.470 [http-nio-9006-exec-4] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() entered
+15:58:53.485 [http-nio-9006-exec-4] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() executed successfully.
+15:58:53.485 [http-nio-9006-exec-4] INFO  c.i.u.s.InternalNotesServiceImpl - Total internal notes retrieved: 8
+15:59:32.482 [http-nio-9006-exec-5] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, saveInternalNotes(): Initializing internal note save process...
+15:59:32.508 [http-nio-9006-exec-5] INFO  c.i.u.s.InternalNotesServiceImpl - Internal note saved successfully with ID: 10
+15:59:34.561 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getAllInternalNotes(): Fetching all internal notes...
+15:59:34.572 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() entered
+15:59:34.581 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() executed successfully.
+15:59:34.581 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() entered
+15:59:34.677 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() executed successfully.
+15:59:34.677 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() entered
+15:59:34.691 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() executed successfully.
+15:59:34.692 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - Total internal notes retrieved: 9
+15:59:36.939 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+15:59:53.861 [http-nio-9006-exec-7] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getInternalNotesById(): Fetching internal note with ID: 10
+15:59:53.864 [http-nio-9006-exec-7] INFO  c.i.u.s.InternalNotesServiceImpl - Internal note retrieved successfully with ID: 10
+16:00:30.634 [http-nio-9006-exec-8] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getInternalNotesById(): Fetching internal note with ID: 10
+16:00:30.638 [http-nio-9006-exec-8] INFO  c.i.u.s.InternalNotesServiceImpl - Internal note retrieved successfully with ID: 10
+16:00:32.610 [http-nio-9006-exec-10] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, updateInternalNotes(): Updating internal note with ID: 10
+16:00:32.662 [http-nio-9006-exec-10] INFO  c.i.u.s.InternalNotesServiceImpl - Internal note updated successfully with ID: 10
+16:00:34.692 [http-nio-9006-exec-9] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getAllInternalNotes(): Fetching all internal notes...
+16:00:34.707 [http-nio-9006-exec-9] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() entered
+16:00:34.715 [http-nio-9006-exec-9] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() executed successfully.
+16:00:34.715 [http-nio-9006-exec-9] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() entered
+16:00:34.787 [http-nio-9006-exec-9] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() executed successfully.
+16:00:34.787 [http-nio-9006-exec-9] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() entered
+16:00:34.807 [http-nio-9006-exec-9] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() executed successfully.
+16:00:34.808 [http-nio-9006-exec-9] INFO  c.i.u.s.InternalNotesServiceImpl - Total internal notes retrieved: 9
+16:01:53.970 [http-nio-9006-exec-2] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getAllInternalNotes(): Fetching all internal notes...
+16:01:53.983 [http-nio-9006-exec-2] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() entered
+16:01:53.997 [http-nio-9006-exec-2] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() executed successfully.
+16:01:53.997 [http-nio-9006-exec-2] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() entered
+16:01:54.086 [http-nio-9006-exec-2] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() executed successfully.
+16:01:54.086 [http-nio-9006-exec-2] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() entered
+16:01:54.102 [http-nio-9006-exec-2] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() executed successfully.
+16:01:54.102 [http-nio-9006-exec-2] INFO  c.i.u.s.InternalNotesServiceImpl - Total internal notes retrieved: 9
+16:04:36.941 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+16:06:46.679 [http-nio-9006-exec-4] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getAllInternalNotes(): Fetching all internal notes...
+16:06:46.688 [http-nio-9006-exec-4] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() entered
+16:06:46.700 [http-nio-9006-exec-4] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() executed successfully.
+16:06:46.700 [http-nio-9006-exec-4] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() entered
+16:06:46.792 [http-nio-9006-exec-4] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() executed successfully.
+16:06:46.792 [http-nio-9006-exec-4] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() entered
+16:06:46.816 [http-nio-9006-exec-4] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() executed successfully.
+16:06:46.816 [http-nio-9006-exec-4] INFO  c.i.u.s.InternalNotesServiceImpl - Total internal notes retrieved: 9
+16:09:36.952 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+16:14:36.967 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+16:18:04.984 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getAllInternalNotes(): Fetching all internal notes...
+16:18:04.990 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() entered
+16:18:05.002 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() executed successfully.
+16:18:05.003 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() entered
+16:18:05.116 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() executed successfully.
+16:18:05.117 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() entered
+16:18:05.135 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() executed successfully.
+16:18:05.135 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - Total internal notes retrieved: 9
+16:18:21.201 [http-nio-9006-exec-7] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getAllInternalNotes(): Fetching all internal notes...
+16:18:21.235 [http-nio-9006-exec-7] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() entered
+16:18:21.244 [http-nio-9006-exec-7] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() executed successfully.
+16:18:21.244 [http-nio-9006-exec-7] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() entered
+16:18:21.437 [http-nio-9006-exec-7] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() executed successfully.
+16:18:21.438 [http-nio-9006-exec-7] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() entered
+16:18:21.472 [http-nio-9006-exec-7] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() executed successfully.
+16:18:21.472 [http-nio-9006-exec-7] INFO  c.i.u.s.InternalNotesServiceImpl - Total internal notes retrieved: 9
+16:18:42.037 [http-nio-9006-exec-8] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, saveInternalNotes(): Initializing internal note save process...
+16:18:42.068 [http-nio-9006-exec-8] INFO  c.i.u.s.InternalNotesServiceImpl - Internal note saved successfully with ID: 11
+16:18:44.331 [http-nio-9006-exec-10] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getAllInternalNotes(): Fetching all internal notes...
+16:18:44.351 [http-nio-9006-exec-10] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() entered
+16:18:44.357 [http-nio-9006-exec-10] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() executed successfully.
+16:18:44.357 [http-nio-9006-exec-10] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() entered
+16:18:45.386 [http-nio-9006-exec-10] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() executed successfully.
+16:18:45.387 [http-nio-9006-exec-10] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() entered
+16:18:45.431 [http-nio-9006-exec-10] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() executed successfully.
+16:18:45.432 [http-nio-9006-exec-10] INFO  c.i.u.s.InternalNotesServiceImpl - Total internal notes retrieved: 10
+16:18:51.069 [http-nio-9006-exec-9] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getInternalNotesById(): Fetching internal note with ID: 11
+16:18:51.072 [http-nio-9006-exec-9] INFO  c.i.u.s.InternalNotesServiceImpl - Internal note retrieved successfully with ID: 11
+16:18:59.982 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getInternalNotesById(): Fetching internal note with ID: 11
+16:18:59.985 [http-nio-9006-exec-1] INFO  c.i.u.s.InternalNotesServiceImpl - Internal note retrieved successfully with ID: 11
+16:19:02.080 [http-nio-9006-exec-2] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, updateInternalNotes(): Updating internal note with ID: 11
+16:19:02.110 [http-nio-9006-exec-2] INFO  c.i.u.s.InternalNotesServiceImpl - Internal note updated successfully with ID: 11
+16:19:04.263 [http-nio-9006-exec-3] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getAllInternalNotes(): Fetching all internal notes...
+16:19:04.277 [http-nio-9006-exec-3] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() entered
+16:19:04.288 [http-nio-9006-exec-3] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() executed successfully.
+16:19:04.288 [http-nio-9006-exec-3] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() entered
+16:19:04.347 [http-nio-9006-exec-3] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() executed successfully.
+16:19:04.347 [http-nio-9006-exec-3] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() entered
+16:19:04.366 [http-nio-9006-exec-3] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() executed successfully.
+16:19:04.366 [http-nio-9006-exec-3] INFO  c.i.u.s.InternalNotesServiceImpl - Total internal notes retrieved: 10
+16:19:36.972 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+16:24:36.980 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+16:29:36.991 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+16:34:37.007 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+16:39:37.023 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+16:44:37.025 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+16:49:37.026 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+16:54:37.037 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+16:59:37.046 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+18:37:30.501 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h35m54s486ms624µs900ns).
+18:40:01.520 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+18:40:41.891 [http-nio-9006-exec-5] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getInternalNotesById(): Fetching internal note with ID: 11
+18:40:41.902 [http-nio-9006-exec-5] INFO  c.i.u.s.InternalNotesServiceImpl - Internal note retrieved successfully with ID: 11
+18:40:41.950 [http-nio-9006-exec-5] WARN  o.h.e.jdbc.spi.SqlExceptionHelper - SQL Warning Code: 0, SQLState: 01000
+18:40:41.952 [http-nio-9006-exec-5] WARN  o.h.e.jdbc.spi.SqlExceptionHelper - database "umsdocumentdb" has a collation version mismatch
+18:41:01.758 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getAllInternalNotes(): Fetching all internal notes...
+18:41:01.768 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() entered
+18:41:01.774 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() executed successfully.
+18:41:01.774 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() entered
+18:41:01.859 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() executed successfully.
+18:41:01.859 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() entered
+18:41:01.879 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() executed successfully.
+18:41:01.881 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - Total internal notes retrieved: 10
+18:41:04.581 [http-nio-9006-exec-7] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getInternalNotesById(): Fetching internal note with ID: 11
+18:41:04.585 [http-nio-9006-exec-7] INFO  c.i.u.s.InternalNotesServiceImpl - Internal note retrieved successfully with ID: 11
+18:41:12.691 [http-nio-9006-exec-8] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getInternalNotesById(): Fetching internal note with ID: 9
+18:41:12.696 [http-nio-9006-exec-8] INFO  c.i.u.s.InternalNotesServiceImpl - Internal note retrieved successfully with ID: 9
+18:45:01.526 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+18:48:19.096 [http-nio-9006-exec-9] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getInternalNotesById(): Fetching internal note with ID: 11
+18:48:19.099 [http-nio-9006-exec-9] INFO  c.i.u.s.InternalNotesServiceImpl - Internal note retrieved successfully with ID: 11
+18:50:01.534 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+18:52:59.741 [http-nio-9006-exec-2] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getAllInternalNotes(): Fetching all internal notes...
+18:52:59.760 [http-nio-9006-exec-2] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() entered
+18:52:59.780 [http-nio-9006-exec-2] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() executed successfully.
+18:52:59.780 [http-nio-9006-exec-2] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() entered
+18:52:59.881 [http-nio-9006-exec-2] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() executed successfully.
+18:52:59.881 [http-nio-9006-exec-2] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() entered
+18:52:59.904 [http-nio-9006-exec-2] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() executed successfully.
+18:52:59.904 [http-nio-9006-exec-2] INFO  c.i.u.s.InternalNotesServiceImpl - Total internal notes retrieved: 10
+18:53:13.125 [http-nio-9006-exec-3] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getInternalNotesById(): Fetching internal note with ID: 11
+18:53:13.128 [http-nio-9006-exec-3] INFO  c.i.u.s.InternalNotesServiceImpl - Internal note retrieved successfully with ID: 11
+18:53:19.389 [http-nio-9006-exec-4] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getInternalNotesById(): Fetching internal note with ID: 11
+18:53:19.395 [http-nio-9006-exec-4] INFO  c.i.u.s.InternalNotesServiceImpl - Internal note retrieved successfully with ID: 11
+18:55:01.551 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+19:00:01.565 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+19:05:01.566 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+19:10:01.574 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+19:15:01.576 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+19:20:01.583 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+19:25:01.587 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+19:30:01.595 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+19:35:01.596 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+19:38:31.640 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - In InternalNotesServiceImpl, getAllInternalNotes(): Fetching all internal notes...
+19:38:31.664 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() entered
+19:38:31.684 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - getEmployeesMap() executed successfully.
+19:38:31.684 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() entered
+19:38:31.861 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - getAllTeamsMap() executed successfully.
+19:38:31.861 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() entered
+19:38:31.877 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - getAllDepartments() executed successfully.
+19:38:31.877 [http-nio-9006-exec-6] INFO  c.i.u.s.InternalNotesServiceImpl - Total internal notes retrieved: 10
+19:38:32.612 [http-nio-9006-exec-6] WARN  o.h.e.jdbc.spi.SqlExceptionHelper - SQL Warning Code: 0, SQLState: 01000
+19:38:32.612 [http-nio-9006-exec-6] WARN  o.h.e.jdbc.spi.SqlExceptionHelper - database "umsdocumentdb" has a collation version mismatch
+19:40:01.597 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+19:45:01.598 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+19:50:01.600 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+19:55:01.601 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+20:00:01.602 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+20:05:01.604 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+20:10:01.610 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+20:15:01.617 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+21:18:28.163 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h3m26s514ms135µs700ns).
+21:22:58.142 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+21:27:58.144 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+21:32:58.151 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+21:37:58.165 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration

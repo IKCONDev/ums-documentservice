@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+ 
+    <!-- Optional: Define service and environment context -->
+<property name="SERVICE_NAME" value="ums-document-service"/>
+<property name="ENVIRONMENT" value="sit"/>
+ 
+    <appender name="FILE" class="ch.qos.logback.core.rolling.RollingFileAppender">
+<file>ums-logs/${SERVICE_NAME}.log</file>
+<rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+<fileNamePattern>ums-logs/${SERVICE_NAME}.%d{yyyy-MM-dd}.log</fileNamePattern>
+</rollingPolicy>
+ 
+        <!-- Use JSON encoder for structured logging -->
+<encoder class="net.logstash.logback.encoder.LogstashEncoder">
+<customFields>{"service":"${SERVICE_NAME}", "environment":"${ENVIRONMENT}"}</customFields>
+</encoder>
+</appender>
+ 
+    <!-- Optional: Still keep console logging in plain format for dev -->
+<appender name="CONSOLE" class="ch.qos.logback.core.ConsoleAppender">
+<encoder>
+<pattern>%d{HH:mm:ss.SSS} [%thread] %-5level %logger{36} - %msg%n</pattern>
+</encoder>
+</appender>
+ 
+    <!-- Log Level for your package -->
+<logger name="com.ikn.ums" level="DEBUG"/>
+ 
+    <!-- Root logger -->
+<root level="INFO">
+<appender-ref ref="CONSOLE"/>
+<appender-ref ref="FILE"/>
+</root>
+</configuration>
+
+ 
