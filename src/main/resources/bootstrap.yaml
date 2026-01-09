@@ -1,5 +1,9 @@
 spring:
+  application:
+    name: UMS-DOCUMENT-SERVICE
   cloud:
     config:
-      enabled: true
-      uri: http://localhost:9296
+      uri: http://localhost:9004
+      label: ums-2.1   # matches the branch in your config server
+  config:
+    import: optional:configserver:http://localhost:9004
