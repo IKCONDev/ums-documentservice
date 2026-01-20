@@ -1,0 +1,66 @@
+/.metadata/
+
+# ===========================
+# Java / Maven
+# ===========================
+
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+*.zip
+*.tar.gz
+*.rar
+
+# Compiled source #
+###################
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Package Files #
+#################
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Maven / Gradle
+target/
+build/
+!.mvn/wrapper/maven-wrapper.jar
+
+# ===========================
+# Logs
+# ===========================
+**/ums-logs/
+*.log
+
+# ===========================
+# IDE / editor
+# ===========================
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+*.swp
+*.swo
+.DS_Store
+*.bak
+*.tmp
+
+# ===========================
+# Others
+# ===========================
+*.class
+*.project
+*.settings/
+*.classpath
+.settings/
+
