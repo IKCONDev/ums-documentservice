@@ -8,90 +8,93 @@ import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.FetchType;
 import jakarta.persistence.GeneratedValue;
-import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import jakarta.persistence.OneToMany;
+import jakarta.persistence.SequenceGenerator;
 import jakarta.persistence.Table;
 import lombok.Data;
 
 @Data
 @Entity
-@Table (name = "internal_notes")
+@Table(name = "internal_notes")
 public class InternalNotes {
-	
-	@Id
-	@Column(name = "internalnote_id")
-	@GeneratedValue(strategy = GenerationType.IDENTITY)
-	private Long internalnoteId;
 
-	@Column(name = "internalnote_name", nullable = false)
-	private String internalnoteName;
+    @Id
+    @Column(name = "internal_note_id")
+    @SequenceGenerator(
+            name = "intr_note_gen",
+            sequenceName = "intr_note_gen",
+            allocationSize = 1
+    )
+    @GeneratedValue(generator = "intr_note_gen")
+    private Long internalnoteId;
 
-	@Column(name = "internalnote_title", nullable = false)
-	private String internalnoteTitle;
-	
-	@Column(name = "internalnote_reviewer", unique = false)
-	private String internalnoteReviewer;
+    @Column(name = "internal_note_name", nullable = false)
+    private String internalnoteName;
 
-	@Column(name = "internalnote_approver", nullable = true)
-	private String internalnoteApprover;
-	
-	@Column(name = "reviewer_status", nullable = true)
-	private String reviewerStatus;
-	
-	@Column(name = "approver_status", nullable = true)
-	private String approverStatus;
+    @Column(name = "internal_note_title", nullable = false)
+    private String internalnoteTitle;
 
-	@Column(name = "internalnotes_status", nullable = true)
-	private String internalnotesStatus;
-	
-	@Column(name = "reviewerDateTime")
-	private LocalDateTime reviewerDateTime;
-	
-	@Column(name = "approverDateTime")
-	private LocalDateTime approverDateTime;
-	
-	@Column(name = "meetingId")
-	private Long meetingId;
-	
-	@Column(name = "teamId")
-	private Long teamId;
+    @Column(name = "internal_note_reviewer", unique = false)
+    private String internalnoteReviewer;
 
-	@Column(name = "departmentId")
-	private Long departmentId;
-	
-	@Column(name = "createdDateTime")
-	private LocalDateTime createdDateTime;
+    @Column(name = "internal_note_approver", nullable = true)
+    private String internalnoteApprover;
 
-	@Column(name = "modifiedDateTime", nullable = true)
-	private LocalDateTime modifiedDateTime;
+    @Column(name = "reviewer_status", nullable = true)
+    private String reviewerStatus;
 
-	@Column(name = "createdBy")
-	private String createdBy;
+    @Column(name = "approver_status", nullable = true)
+    private String approverStatus;
 
-	@Column(name = "modifiedBy")
-	private String modifiedBy;
+    @Column(name = "internal_notes_status", nullable = true)
+    private String internalnotesStatus;
 
-	@Column(name = "createdByEmailId")
-	private String createdByEmailId;
+    @Column(name = "reviewer_date_time")
+    private LocalDateTime reviewerDateTime;
 
-	@Column(name = "modifiedByEmailId", nullable = true)
-	private String modifiedByEmailId;
-	
-	@Column(name="internalNoteDocument")
-	private byte[] internalNoteDocument;
-	
-	@Column(name="internalNoteDocumentName")
-	private String internalNoteDocumentName;
-	
-	@Column(name="internalNoteDocumentType")
-	private String internalNoteDocumentType;
+    @Column(name = "approver_date_time")
+    private LocalDateTime approverDateTime;
 
-	@OneToMany(mappedBy = "internalNotes", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
-	private List<InternalNoteHistory> internalNoteHistory;
-	
-	@OneToMany(mappedBy = "notes", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
-	private List<InternalNoteComment> internalNoteComment;
+    @Column(name = "meeting_id")
+    private Long meetingId;
 
+    @Column(name = "team_id")
+    private Long teamId;
 
+    @Column(name = "department_id")
+    private Long departmentId;
+
+    @Column(name = "created_date_time")
+    private LocalDateTime createdDateTime;
+
+    @Column(name = "modified_date_time", nullable = true)
+    private LocalDateTime modifiedDateTime;
+
+    @Column(name = "created_by")
+    private String createdBy;
+
+    @Column(name = "modified_by")
+    private String modifiedBy;
+
+    @Column(name = "created_by_email_id")
+    private String createdByEmailId;
+
+    @Column(name = "modified_by_email_id", nullable = true)
+    private String modifiedByEmailId;
+
+    @Column(name = "internal_note_document")
+    private byte[] internalNoteDocument;
+
+    @Column(name = "internal_note_document_name")
+    private String internalNoteDocumentName;
+
+    @Column(name = "internal_note_document_type")
+    private String internalNoteDocumentType;
+
+    @OneToMany(mappedBy = "internalNotes", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
+    private List<InternalNoteHistory> internalNoteHistory;
+
+    @OneToMany(mappedBy = "notes", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
+    private List<InternalNoteComment> internalNoteComment;
 }
