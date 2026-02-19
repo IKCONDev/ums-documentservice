@@ -15,7 +15,7 @@ import org.springframework.context.annotation.Primary;
 import org.springframework.http.client.SimpleClientHttpRequestFactory;
 import org.springframework.web.client.RestTemplate;
 
-import com.ikn.ums.interceptor.RestTemplateInterceptor;
+import com.ikn.ums.tenant.core.context.interceptor.RestTemplateInterceptor;
 import com.ikn.ums.tenant.core.datasource.DataSourceConfig;
 
 @Import({ DataSourceConfig.class })
@@ -34,6 +34,12 @@ public class UmsDocumentServiceApplication {
 		mapper.getConfiguration().setMatchingStrategy(MatchingStrategies.STRICT);
 		return mapper;
 	}
+	
+
+    @Bean
+    public RestTemplateInterceptor restTemplateInterceptor() {
+        return new RestTemplateInterceptor();
+    }
 
 	@Bean(name = "internalRestTemplate")
 	@LoadBalanced
